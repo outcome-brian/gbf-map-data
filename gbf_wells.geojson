@@ -1,0 +1,4130 @@
+{
+ "type": "FeatureCollection",
+ "metadata": {
+  "layer": "GBF wells",
+  "count": 137,
+  "asset_types": "21 built / 116 restored",
+  "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+  "confirmed_positions": 0,
+  "note": "Coordinates are ILLUSTRATIVE commune-centroid placeholders, not real asset positions. Replace with GBF's coordinate file. Do NOT host real asset coordinates or any personal data at a public URL.",
+  "status_values": [
+   "WORKING",
+   "WORKING_DEGRADING",
+   "BROKEN",
+   "NOT_REPORTED_SINCE",
+   "NEVER_REPORTED"
+  ]
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.41803,
+     11.99447
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-B-001",
+    "label": "Kombissiri well 001",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "asset_type": "built",
+    "year": "2020",
+    "funder": "[PENDING]",
+    "population_dependent": 500,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "BROKEN",
+    "report_count_month6": 29,
+    "pump_type": "Vergnet HPV-60",
+    "depth_m": "52",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.59977,
+     12.12492
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-B-002",
+    "label": "Komsilga well 002",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "built",
+    "year": "2019",
+    "funder": "Newday Impact",
+    "population_dependent": 240,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "NOT_REPORTED_SINCE",
+    "report_count_month6": 38,
+    "pump_type": "[PENDING]",
+    "depth_m": "63",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.61655,
+     12.22891
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-B-003",
+    "label": "Tanghin-Dassouri well 003",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "built",
+    "year": "2022",
+    "funder": "Individual donors (Water Ball)",
+    "population_dependent": 180,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 8,
+    "pump_type": "[PENDING]",
+    "depth_m": "34",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.36652,
+     12.29589
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-B-004",
+    "label": "Saaba well 004",
+    "commune": "Saaba",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "built",
+    "year": "2022",
+    "funder": "Newday Impact",
+    "population_dependent": 3000,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "NOT_REPORTED_SINCE",
+    "report_count_month6": 12,
+    "pump_type": "India Mark II",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.57328,
+     12.2539
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-B-005",
+    "label": "Komsilga well 005",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "built",
+    "year": "2023",
+    "funder": "Newday Impact",
+    "population_dependent": 950,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 36,
+    "pump_type": "India Mark II",
+    "depth_m": "63",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.61038,
+     12.2725
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-B-006",
+    "label": "Tanghin-Dassouri well 006",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "built",
+    "year": "2023",
+    "funder": "Newday Impact",
+    "population_dependent": 320,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 8,
+    "pump_type": "Volanta",
+    "depth_m": "47",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.37881,
+     12.13424
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-B-007",
+    "label": "Kombissiri well 007",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "asset_type": "built",
+    "year": "2021",
+    "funder": "Newday Impact",
+    "population_dependent": 950,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING_DEGRADING",
+    "report_count_month6": 12,
+    "pump_type": "India Mark II",
+    "depth_m": "47",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.43574,
+     12.38314
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-B-008",
+    "label": "Saaba well 008",
+    "commune": "Saaba",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "built",
+    "year": "2023",
+    "funder": "[PENDING]",
+    "population_dependent": 3000,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 26,
+    "pump_type": "India Mark II",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.66683,
+     12.53559
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-B-009",
+    "label": "Pabre well 009",
+    "commune": "Pabre",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "built",
+    "year": "2025",
+    "funder": "[PENDING]",
+    "population_dependent": 3000,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 3,
+    "pump_type": "India Mark II",
+    "depth_m": "47",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.38304,
+     12.17637
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-B-010",
+    "label": "Koubri well 010",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "built",
+    "year": "2021",
+    "funder": "[PENDING]",
+    "population_dependent": 1200,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 40,
+    "pump_type": "Vergnet HPV-60",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.35228,
+     11.99733
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-B-011",
+    "label": "Kombissiri well 011",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "asset_type": "built",
+    "year": "2018",
+    "funder": "Individual donors (Water Ball)",
+    "population_dependent": 3000,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 10,
+    "pump_type": "[PENDING]",
+    "depth_m": "52",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.95415,
+     12.63268
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-B-012",
+    "label": "Bouss\u00e9 well 012",
+    "commune": "Bouss\u00e9",
+    "province": "Kourweogo",
+    "region": "Plateau-Central",
+    "asset_type": "built",
+    "year": "2018",
+    "funder": "[PENDING]",
+    "population_dependent": 2600,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING_DEGRADING",
+    "report_count_month6": 10,
+    "pump_type": "Volanta",
+    "depth_m": "34",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.40513,
+     12.13892
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-B-013",
+    "label": "Kombissiri well 013",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "asset_type": "built",
+    "year": "2024",
+    "funder": "Newday Impact",
+    "population_dependent": 650,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 38,
+    "pump_type": "Vergnet HPV-60",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.39208,
+     12.22184
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-B-014",
+    "label": "Koubri well 014",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "built",
+    "year": "2021",
+    "funder": "[PENDING]",
+    "population_dependent": 2600,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 26,
+    "pump_type": "Volanta",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.7448,
+     12.1904
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-B-015",
+    "label": "Tanghin-Dassouri well 015",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "built",
+    "year": "2020",
+    "funder": "Individual donors (Water Ball)",
+    "population_dependent": 800,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 9,
+    "pump_type": "India Mark II",
+    "depth_m": "47",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.07331,
+     12.19722
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-B-016",
+    "label": "Kokologho well 016",
+    "commune": "Kokologho",
+    "province": "Boulkiemde",
+    "region": "Centre-Ouest",
+    "asset_type": "built",
+    "year": "2021",
+    "funder": "[PENDING]",
+    "population_dependent": 320,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "BROKEN",
+    "report_count_month6": 38,
+    "pump_type": "India Mark II",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.5706,
+     12.49116
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-B-017",
+    "label": "Pabre well 017",
+    "commune": "Pabre",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "built",
+    "year": "2018",
+    "funder": "[PENDING]",
+    "population_dependent": 240,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING_DEGRADING",
+    "report_count_month6": 22,
+    "pump_type": "India Mark II",
+    "depth_m": "41",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.63351,
+     12.07961
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-B-018",
+    "label": "Doulougou well 018",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "asset_type": "built",
+    "year": "2017",
+    "funder": "L'Oreal Fund for Women",
+    "population_dependent": 950,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 31,
+    "pump_type": "Volanta",
+    "depth_m": "58",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.44284,
+     12.10372
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-B-019",
+    "label": "Koubri well 019",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "built",
+    "year": "2023",
+    "funder": "[PENDING]",
+    "population_dependent": 1200,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 27,
+    "pump_type": "[PENDING]",
+    "depth_m": "58",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.57168,
+     12.09724
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-B-020",
+    "label": "Doulougou well 020",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "asset_type": "built",
+    "year": "2022",
+    "funder": "[PENDING]",
+    "population_dependent": 1800,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "BROKEN",
+    "report_count_month6": 35,
+    "pump_type": "[PENDING]",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.61128,
+     12.21164
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-B-021",
+    "label": "Tanghin-Dassouri well 021",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "built",
+    "year": "2019",
+    "funder": "[PENDING]",
+    "population_dependent": 3000,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 40,
+    "pump_type": "India Mark II",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.4502,
+     12.21859
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-022",
+    "label": "Koubri well 022",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2022",
+    "funder": "[PENDING]",
+    "population_dependent": 950,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 12,
+    "pump_type": "India Mark II",
+    "depth_m": "41",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.61827,
+     12.18914
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-023",
+    "label": "Tanghin-Dassouri well 023",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2024",
+    "funder": "L'Oreal Fund for Women",
+    "population_dependent": 800,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING_DEGRADING",
+    "report_count_month6": 12,
+    "pump_type": "Vergnet HPV-60",
+    "depth_m": "47",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.49707,
+     12.03052
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-024",
+    "label": "Doulougou well 024",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "asset_type": "restored",
+    "year": "2023",
+    "funder": "[PENDING]",
+    "population_dependent": 320,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING_DEGRADING",
+    "report_count_month6": 22,
+    "pump_type": "Volanta",
+    "depth_m": "52",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.74568,
+     11.55926
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-025",
+    "label": "Sapouy well 025",
+    "commune": "Sapouy",
+    "province": "Ziro",
+    "region": "Centre-Ouest",
+    "asset_type": "restored",
+    "year": "2019",
+    "funder": "School partner network",
+    "population_dependent": 650,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING_DEGRADING",
+    "report_count_month6": 18,
+    "pump_type": "India Mark II",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.60208,
+     12.24004
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-026",
+    "label": "Komsilga well 026",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2023",
+    "funder": "[PENDING]",
+    "population_dependent": 410,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 37,
+    "pump_type": "India Mark II",
+    "depth_m": "52",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.75316,
+     12.17644
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-027",
+    "label": "Tanghin-Dassouri well 027",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2023",
+    "funder": "Individual donors (Water Ball)",
+    "population_dependent": 410,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "NOT_REPORTED_SINCE",
+    "report_count_month6": 31,
+    "pump_type": "Volanta",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.75084,
+     12.19944
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-028",
+    "label": "Tanghin-Dassouri well 028",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2024",
+    "funder": "L'Oreal Fund for Women",
+    "population_dependent": 3000,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 31,
+    "pump_type": "Volanta",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.01632,
+     12.15471
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-029",
+    "label": "Kokologho well 029",
+    "commune": "Kokologho",
+    "province": "Boulkiemde",
+    "region": "Centre-Ouest",
+    "asset_type": "restored",
+    "year": "2020",
+    "funder": "School partner network",
+    "population_dependent": 180,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 15,
+    "pump_type": "[PENDING]",
+    "depth_m": "47",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.40085,
+     12.19123
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-030",
+    "label": "Koubri well 030",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2020",
+    "funder": "Individual donors (Water Ball)",
+    "population_dependent": 3000,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 6,
+    "pump_type": "India Mark II",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.4523,
+     12.35116
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-031",
+    "label": "Saaba well 031",
+    "commune": "Saaba",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2023",
+    "funder": "L'Oreal Fund for Women",
+    "population_dependent": 180,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "BROKEN",
+    "report_count_month6": 23,
+    "pump_type": "Vergnet HPV-60",
+    "depth_m": "58",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.54721,
+     12.5176
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-032",
+    "label": "Pabre well 032",
+    "commune": "Pabre",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2021",
+    "funder": "Newday Impact",
+    "population_dependent": 800,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 29,
+    "pump_type": "India Mark II",
+    "depth_m": "41",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.58223,
+     12.12914
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-033",
+    "label": "Komsilga well 033",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2017",
+    "funder": "Individual donors (Water Ball)",
+    "population_dependent": 410,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "NOT_REPORTED_SINCE",
+    "report_count_month6": 38,
+    "pump_type": "India Mark II",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.10033,
+     12.1867
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-034",
+    "label": "Kokologho well 034",
+    "commune": "Kokologho",
+    "province": "Boulkiemde",
+    "region": "Centre-Ouest",
+    "asset_type": "restored",
+    "year": "2022",
+    "funder": "[PENDING]",
+    "population_dependent": 240,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING_DEGRADING",
+    "report_count_month6": 41,
+    "pump_type": "Volanta",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.4244,
+     12.30636
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-035",
+    "label": "Saaba well 035",
+    "commune": "Saaba",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2019",
+    "funder": "[PENDING]",
+    "population_dependent": 2200,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING_DEGRADING",
+    "report_count_month6": 34,
+    "pump_type": "India Mark II",
+    "depth_m": "41",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.41365,
+     12.14796
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-036",
+    "label": "Koubri well 036",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2021",
+    "funder": "[PENDING]",
+    "population_dependent": 240,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 13,
+    "pump_type": "[PENDING]",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.73574,
+     12.17177
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-037",
+    "label": "Tanghin-Dassouri well 037",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2023",
+    "funder": "[PENDING]",
+    "population_dependent": 3000,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "NOT_REPORTED_SINCE",
+    "report_count_month6": 26,
+    "pump_type": "India Mark II",
+    "depth_m": "41",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.41639,
+     12.12559
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-038",
+    "label": "Koubri well 038",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2017",
+    "funder": "School partner network",
+    "population_dependent": 1500,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 15,
+    "pump_type": "[PENDING]",
+    "depth_m": "58",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.67108,
+     12.52571
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-039",
+    "label": "Pabre well 039",
+    "commune": "Pabre",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2025",
+    "funder": "[PENDING]",
+    "population_dependent": 320,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 37,
+    "pump_type": "Vergnet HPV-60",
+    "depth_m": "63",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.49956,
+     12.04215
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-040",
+    "label": "Doulougou well 040",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "asset_type": "restored",
+    "year": "2021",
+    "funder": "[PENDING]",
+    "population_dependent": 320,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 2,
+    "pump_type": "Vergnet HPV-60",
+    "depth_m": "52",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.54255,
+     12.15965
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-041",
+    "label": "Komsilga well 041",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2024",
+    "funder": "[PENDING]",
+    "population_dependent": 1500,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 21,
+    "pump_type": "India Mark II",
+    "depth_m": "47",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.80919,
+     11.58153
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-042",
+    "label": "Sapouy well 042",
+    "commune": "Sapouy",
+    "province": "Ziro",
+    "region": "Centre-Ouest",
+    "asset_type": "restored",
+    "year": "2025",
+    "funder": "Individual donors (Water Ball)",
+    "population_dependent": 180,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "BROKEN",
+    "report_count_month6": 33,
+    "pump_type": "Vergnet HPV-60",
+    "depth_m": "52",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.34585,
+     12.08059
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-043",
+    "label": "Kombissiri well 043",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "asset_type": "restored",
+    "year": "2023",
+    "funder": "[PENDING]",
+    "population_dependent": 800,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "BROKEN",
+    "report_count_month6": 37,
+    "pump_type": "Vergnet HPV-60",
+    "depth_m": "41",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.42131,
+     12.24849
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-044",
+    "label": "Koubri well 044",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2021",
+    "funder": "Newday Impact",
+    "population_dependent": 320,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 41,
+    "pump_type": "[PENDING]",
+    "depth_m": "41",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.4114,
+     12.0471
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-045",
+    "label": "Kombissiri well 045",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "asset_type": "restored",
+    "year": "2025",
+    "funder": "L'Oreal Fund for Women",
+    "population_dependent": 950,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 16,
+    "pump_type": "Vergnet HPV-60",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.51737,
+     12.05612
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-046",
+    "label": "Doulougou well 046",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "asset_type": "restored",
+    "year": "2022",
+    "funder": "[PENDING]",
+    "population_dependent": 800,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 29,
+    "pump_type": "India Mark II",
+    "depth_m": "58",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.63642,
+     12.43065
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-047",
+    "label": "Pabre well 047",
+    "commune": "Pabre",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2021",
+    "funder": "[PENDING]",
+    "population_dependent": 950,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 2,
+    "pump_type": "Volanta",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.56718,
+     11.99253
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-048",
+    "label": "Doulougou well 048",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "asset_type": "restored",
+    "year": "2024",
+    "funder": "[PENDING]",
+    "population_dependent": 2200,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 33,
+    "pump_type": "India Mark II",
+    "depth_m": "41",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.61427,
+     12.30164
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-049",
+    "label": "Tanghin-Dassouri well 049",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2025",
+    "funder": "Newday Impact",
+    "population_dependent": 410,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING_DEGRADING",
+    "report_count_month6": 6,
+    "pump_type": "India Mark II",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.68652,
+     12.2142
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-050",
+    "label": "Tanghin-Dassouri well 050",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2025",
+    "funder": "School partner network",
+    "population_dependent": 650,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 15,
+    "pump_type": "India Mark II",
+    "depth_m": "58",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.62606,
+     12.24561
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-051",
+    "label": "Komsilga well 051",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2020",
+    "funder": "L'Oreal Fund for Women",
+    "population_dependent": 650,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 27,
+    "pump_type": "India Mark II",
+    "depth_m": "52",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.24932,
+     11.98546
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-052",
+    "label": "Kombissiri well 052",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "asset_type": "restored",
+    "year": "2022",
+    "funder": "School partner network",
+    "population_dependent": 1500,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 18,
+    "pump_type": "India Mark II",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.44666,
+     12.4096
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-053",
+    "label": "Saaba well 053",
+    "commune": "Saaba",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2021",
+    "funder": "Individual donors (Water Ball)",
+    "population_dependent": 2600,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 13,
+    "pump_type": "Volanta",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.38079,
+     12.42267
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-054",
+    "label": "Saaba well 054",
+    "commune": "Saaba",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2018",
+    "funder": "[PENDING]",
+    "population_dependent": 1800,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "NOT_REPORTED_SINCE",
+    "report_count_month6": 6,
+    "pump_type": "[PENDING]",
+    "depth_m": "63",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.61511,
+     12.22196
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-055",
+    "label": "Komsilga well 055",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2024",
+    "funder": "Individual donors (Water Ball)",
+    "population_dependent": 180,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 15,
+    "pump_type": "India Mark II",
+    "depth_m": "34",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.55195,
+     12.24392
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-056",
+    "label": "Komsilga well 056",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2017",
+    "funder": "Newday Impact",
+    "population_dependent": 1500,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 26,
+    "pump_type": "Vergnet HPV-60",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.48015,
+     11.93447
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-057",
+    "label": "Doulougou well 057",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "asset_type": "restored",
+    "year": "2019",
+    "funder": "Individual donors (Water Ball)",
+    "population_dependent": 320,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 20,
+    "pump_type": "Vergnet HPV-60",
+    "depth_m": "47",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.61441,
+     12.19242
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-058",
+    "label": "Komsilga well 058",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2020",
+    "funder": "[PENDING]",
+    "population_dependent": 650,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 21,
+    "pump_type": "Vergnet HPV-60",
+    "depth_m": "34",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.53251,
+     12.15254
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-059",
+    "label": "Komsilga well 059",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2024",
+    "funder": "Newday Impact",
+    "population_dependent": 2200,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "NOT_REPORTED_SINCE",
+    "report_count_month6": 23,
+    "pump_type": "India Mark II",
+    "depth_m": "47",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.11047,
+     12.14422
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-060",
+    "label": "Kokologho well 060",
+    "commune": "Kokologho",
+    "province": "Boulkiemde",
+    "region": "Centre-Ouest",
+    "asset_type": "restored",
+    "year": "2020",
+    "funder": "School partner network",
+    "population_dependent": 1200,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 3,
+    "pump_type": "Vergnet HPV-60",
+    "depth_m": "47",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.62095,
+     12.07236
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-061",
+    "label": "Doulougou well 061",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "asset_type": "restored",
+    "year": "2025",
+    "funder": "[PENDING]",
+    "population_dependent": 500,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING_DEGRADING",
+    "report_count_month6": 36,
+    "pump_type": "India Mark II",
+    "depth_m": "41",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.4262,
+     12.13068
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-062",
+    "label": "Koubri well 062",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2022",
+    "funder": "[PENDING]",
+    "population_dependent": 240,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 33,
+    "pump_type": "India Mark II",
+    "depth_m": "52",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.43345,
+     12.22689
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-063",
+    "label": "Koubri well 063",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2024",
+    "funder": "[PENDING]",
+    "population_dependent": 800,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "NOT_REPORTED_SINCE",
+    "report_count_month6": 32,
+    "pump_type": "Volanta",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.53516,
+     12.19201
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-064",
+    "label": "Komsilga well 064",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2025",
+    "funder": "[PENDING]",
+    "population_dependent": 3000,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 25,
+    "pump_type": "[PENDING]",
+    "depth_m": "41",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.68462,
+     12.17828
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-065",
+    "label": "Tanghin-Dassouri well 065",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2025",
+    "funder": "L'Oreal Fund for Women",
+    "population_dependent": 650,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 21,
+    "pump_type": "Volanta",
+    "depth_m": "41",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.70548,
+     12.18107
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-066",
+    "label": "Tanghin-Dassouri well 066",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2020",
+    "funder": "[PENDING]",
+    "population_dependent": 180,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 3,
+    "pump_type": "India Mark II",
+    "depth_m": "41",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.55935,
+     12.20945
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-067",
+    "label": "Komsilga well 067",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2020",
+    "funder": "Individual donors (Water Ball)",
+    "population_dependent": 950,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING_DEGRADING",
+    "report_count_month6": 29,
+    "pump_type": "Vergnet HPV-60",
+    "depth_m": "41",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.69755,
+     12.42449
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-068",
+    "label": "Pabre well 068",
+    "commune": "Pabre",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2021",
+    "funder": "Individual donors (Water Ball)",
+    "population_dependent": 240,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 23,
+    "pump_type": "Vergnet HPV-60",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.3347,
+     12.36309
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-069",
+    "label": "Saaba well 069",
+    "commune": "Saaba",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2023",
+    "funder": "Individual donors (Water Ball)",
+    "population_dependent": 3000,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 27,
+    "pump_type": "Vergnet HPV-60",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.73286,
+     12.2705
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-070",
+    "label": "Tanghin-Dassouri well 070",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2023",
+    "funder": "Individual donors (Water Ball)",
+    "population_dependent": 650,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 41,
+    "pump_type": "Vergnet HPV-60",
+    "depth_m": "58",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.39184,
+     12.05518
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-071",
+    "label": "Kombissiri well 071",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "asset_type": "restored",
+    "year": "2023",
+    "funder": "[PENDING]",
+    "population_dependent": 950,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "NOT_REPORTED_SINCE",
+    "report_count_month6": 41,
+    "pump_type": "Vergnet HPV-60",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.02633,
+     12.20224
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-072",
+    "label": "Kokologho well 072",
+    "commune": "Kokologho",
+    "province": "Boulkiemde",
+    "region": "Centre-Ouest",
+    "asset_type": "restored",
+    "year": "2022",
+    "funder": "[PENDING]",
+    "population_dependent": 410,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 18,
+    "pump_type": "India Mark II",
+    "depth_m": "47",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.59871,
+     12.14159
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-073",
+    "label": "Komsilga well 073",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2021",
+    "funder": "School partner network",
+    "population_dependent": 180,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "NEVER_REPORTED",
+    "report_count_month6": 0,
+    "pump_type": "India Mark II",
+    "depth_m": "47",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.28792,
+     12.02116
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-074",
+    "label": "Kombissiri well 074",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "asset_type": "restored",
+    "year": "2024",
+    "funder": "[PENDING]",
+    "population_dependent": 950,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 32,
+    "pump_type": "Vergnet HPV-60",
+    "depth_m": "52",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.93276,
+     12.613
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-075",
+    "label": "Bouss\u00e9 well 075",
+    "commune": "Bouss\u00e9",
+    "province": "Kourweogo",
+    "region": "Plateau-Central",
+    "asset_type": "restored",
+    "year": "2021",
+    "funder": "[PENDING]",
+    "population_dependent": 2200,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "BROKEN",
+    "report_count_month6": 28,
+    "pump_type": "[PENDING]",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.25148,
+     11.98182
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-076",
+    "label": "Kombissiri well 076",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "asset_type": "restored",
+    "year": "2024",
+    "funder": "Individual donors (Water Ball)",
+    "population_dependent": 950,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "NOT_REPORTED_SINCE",
+    "report_count_month6": 11,
+    "pump_type": "Volanta",
+    "depth_m": "47",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.73049,
+     12.32925
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-077",
+    "label": "Tanghin-Dassouri well 077",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2021",
+    "funder": "[PENDING]",
+    "population_dependent": 240,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING_DEGRADING",
+    "report_count_month6": 7,
+    "pump_type": "[PENDING]",
+    "depth_m": "47",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.26964,
+     11.98594
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-078",
+    "label": "Kombissiri well 078",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "asset_type": "restored",
+    "year": "2018",
+    "funder": "[PENDING]",
+    "population_dependent": 1200,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING_DEGRADING",
+    "report_count_month6": 10,
+    "pump_type": "[PENDING]",
+    "depth_m": "41",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.70892,
+     11.60726
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-079",
+    "label": "Sapouy well 079",
+    "commune": "Sapouy",
+    "province": "Ziro",
+    "region": "Centre-Ouest",
+    "asset_type": "restored",
+    "year": "2018",
+    "funder": "L'Oreal Fund for Women",
+    "population_dependent": 1800,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "NOT_REPORTED_SINCE",
+    "report_count_month6": 6,
+    "pump_type": "Vergnet HPV-60",
+    "depth_m": "47",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.60384,
+     12.22022
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-080",
+    "label": "Komsilga well 080",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2021",
+    "funder": "[PENDING]",
+    "population_dependent": 410,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING_DEGRADING",
+    "report_count_month6": 35,
+    "pump_type": "India Mark II",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.63363,
+     11.95583
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-081",
+    "label": "Doulougou well 081",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "asset_type": "restored",
+    "year": "2024",
+    "funder": "Individual donors (Water Ball)",
+    "population_dependent": 240,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 30,
+    "pump_type": "Volanta",
+    "depth_m": "58",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.64328,
+     12.33351
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-082",
+    "label": "Tanghin-Dassouri well 082",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2025",
+    "funder": "[PENDING]",
+    "population_dependent": 320,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "NEVER_REPORTED",
+    "report_count_month6": 0,
+    "pump_type": "Volanta",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.40923,
+     12.07852
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-083",
+    "label": "Kombissiri well 083",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "asset_type": "restored",
+    "year": "2025",
+    "funder": "L'Oreal Fund for Women",
+    "population_dependent": 500,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING_DEGRADING",
+    "report_count_month6": 6,
+    "pump_type": "[PENDING]",
+    "depth_m": "52",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.65426,
+     12.19379
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-084",
+    "label": "Tanghin-Dassouri well 084",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2019",
+    "funder": "[PENDING]",
+    "population_dependent": 1500,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "NOT_REPORTED_SINCE",
+    "report_count_month6": 7,
+    "pump_type": "India Mark II",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.71341,
+     12.30737
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-085",
+    "label": "Tanghin-Dassouri well 085",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2022",
+    "funder": "[PENDING]",
+    "population_dependent": 3000,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "NOT_REPORTED_SINCE",
+    "report_count_month6": 21,
+    "pump_type": "India Mark II",
+    "depth_m": "47",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.07054,
+     12.10784
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-086",
+    "label": "Kokologho well 086",
+    "commune": "Kokologho",
+    "province": "Boulkiemde",
+    "region": "Centre-Ouest",
+    "asset_type": "restored",
+    "year": "2023",
+    "funder": "Individual donors (Water Ball)",
+    "population_dependent": 1800,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 24,
+    "pump_type": "Vergnet HPV-60",
+    "depth_m": "41",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.57458,
+     12.18168
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-087",
+    "label": "Komsilga well 087",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2017",
+    "funder": "[PENDING]",
+    "population_dependent": 410,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "NEVER_REPORTED",
+    "report_count_month6": 0,
+    "pump_type": "Vergnet HPV-60",
+    "depth_m": "52",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.71283,
+     12.26309
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-088",
+    "label": "Tanghin-Dassouri well 088",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2024",
+    "funder": "Individual donors (Water Ball)",
+    "population_dependent": 500,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "NOT_REPORTED_SINCE",
+    "report_count_month6": 29,
+    "pump_type": "India Mark II",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.68233,
+     11.50011
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-089",
+    "label": "Sapouy well 089",
+    "commune": "Sapouy",
+    "province": "Ziro",
+    "region": "Centre-Ouest",
+    "asset_type": "restored",
+    "year": "2020",
+    "funder": "Individual donors (Water Ball)",
+    "population_dependent": 2600,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 34,
+    "pump_type": "Volanta",
+    "depth_m": "58",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.69462,
+     12.21183
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-090",
+    "label": "Tanghin-Dassouri well 090",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2017",
+    "funder": "[PENDING]",
+    "population_dependent": 1500,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 25,
+    "pump_type": "India Mark II",
+    "depth_m": "34",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.37723,
+     12.23219
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-091",
+    "label": "Koubri well 091",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2018",
+    "funder": "[PENDING]",
+    "population_dependent": 3000,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING_DEGRADING",
+    "report_count_month6": 34,
+    "pump_type": "India Mark II",
+    "depth_m": "52",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.32354,
+     12.15186
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-092",
+    "label": "Koubri well 092",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2023",
+    "funder": "[PENDING]",
+    "population_dependent": 1500,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "NOT_REPORTED_SINCE",
+    "report_count_month6": 13,
+    "pump_type": "Vergnet HPV-60",
+    "depth_m": "34",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.04928,
+     12.20067
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-093",
+    "label": "Kokologho well 093",
+    "commune": "Kokologho",
+    "province": "Boulkiemde",
+    "region": "Centre-Ouest",
+    "asset_type": "restored",
+    "year": "2025",
+    "funder": "[PENDING]",
+    "population_dependent": 500,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 36,
+    "pump_type": "Volanta",
+    "depth_m": "63",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.67686,
+     12.1678
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-094",
+    "label": "Tanghin-Dassouri well 094",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2024",
+    "funder": "School partner network",
+    "population_dependent": 800,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 7,
+    "pump_type": "India Mark II",
+    "depth_m": "63",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.37788,
+     12.12385
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-095",
+    "label": "Koubri well 095",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2023",
+    "funder": "School partner network",
+    "population_dependent": 1800,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "NOT_REPORTED_SINCE",
+    "report_count_month6": 20,
+    "pump_type": "India Mark II",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.63403,
+     12.5219
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-096",
+    "label": "Pabre well 096",
+    "commune": "Pabre",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2019",
+    "funder": "Newday Impact",
+    "population_dependent": 2600,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 40,
+    "pump_type": "Volanta",
+    "depth_m": "47",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.71938,
+     12.30842
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-097",
+    "label": "Tanghin-Dassouri well 097",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2017",
+    "funder": "[PENDING]",
+    "population_dependent": 2600,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "BROKEN",
+    "report_count_month6": 13,
+    "pump_type": "Vergnet HPV-60",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.41812,
+     12.04427
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-098",
+    "label": "Kombissiri well 098",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "asset_type": "restored",
+    "year": "2018",
+    "funder": "[PENDING]",
+    "population_dependent": 950,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 13,
+    "pump_type": "India Mark II",
+    "depth_m": "58",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.3483,
+     12.00926
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-099",
+    "label": "Kombissiri well 099",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "asset_type": "restored",
+    "year": "2020",
+    "funder": "[PENDING]",
+    "population_dependent": 500,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING_DEGRADING",
+    "report_count_month6": 40,
+    "pump_type": "India Mark II",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.59953,
+     12.15827
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-100",
+    "label": "Komsilga well 100",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2022",
+    "funder": "[PENDING]",
+    "population_dependent": 800,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "BROKEN",
+    "report_count_month6": 16,
+    "pump_type": "India Mark II",
+    "depth_m": "34",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.41556,
+     12.04241
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-101",
+    "label": "Kombissiri well 101",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "asset_type": "restored",
+    "year": "2021",
+    "funder": "[PENDING]",
+    "population_dependent": 500,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 12,
+    "pump_type": "India Mark II",
+    "depth_m": "63",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.88157,
+     12.60459
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-102",
+    "label": "Bouss\u00e9 well 102",
+    "commune": "Bouss\u00e9",
+    "province": "Kourweogo",
+    "region": "Plateau-Central",
+    "asset_type": "restored",
+    "year": "2025",
+    "funder": "[PENDING]",
+    "population_dependent": 320,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "BROKEN",
+    "report_count_month6": 31,
+    "pump_type": "Vergnet HPV-60",
+    "depth_m": "52",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.63978,
+     12.31622
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-103",
+    "label": "Tanghin-Dassouri well 103",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2019",
+    "funder": "Newday Impact",
+    "population_dependent": 650,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 4,
+    "pump_type": "Vergnet HPV-60",
+    "depth_m": "63",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.65894,
+     12.31579
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-104",
+    "label": "Tanghin-Dassouri well 104",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2022",
+    "funder": "[PENDING]",
+    "population_dependent": 180,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 30,
+    "pump_type": "Vergnet HPV-60",
+    "depth_m": "58",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.66109,
+     12.15791
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-105",
+    "label": "Komsilga well 105",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2020",
+    "funder": "School partner network",
+    "population_dependent": 1800,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 36,
+    "pump_type": "[PENDING]",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.63361,
+     12.27631
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-106",
+    "label": "Komsilga well 106",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2018",
+    "funder": "[PENDING]",
+    "population_dependent": 240,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 10,
+    "pump_type": "Vergnet HPV-60",
+    "depth_m": "47",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.84222,
+     11.58017
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-107",
+    "label": "Sapouy well 107",
+    "commune": "Sapouy",
+    "province": "Ziro",
+    "region": "Centre-Ouest",
+    "asset_type": "restored",
+    "year": "2022",
+    "funder": "L'Oreal Fund for Women",
+    "population_dependent": 2600,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 7,
+    "pump_type": "India Mark II",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.96362,
+     12.69451
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-108",
+    "label": "Bouss\u00e9 well 108",
+    "commune": "Bouss\u00e9",
+    "province": "Kourweogo",
+    "region": "Plateau-Central",
+    "asset_type": "restored",
+    "year": "2022",
+    "funder": "[PENDING]",
+    "population_dependent": 320,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 4,
+    "pump_type": "India Mark II",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.01302,
+     12.18842
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-109",
+    "label": "Kokologho well 109",
+    "commune": "Kokologho",
+    "province": "Boulkiemde",
+    "region": "Centre-Ouest",
+    "asset_type": "restored",
+    "year": "2024",
+    "funder": "Newday Impact",
+    "population_dependent": 650,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "NEVER_REPORTED",
+    "report_count_month6": 0,
+    "pump_type": "[PENDING]",
+    "depth_m": "41",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.31861,
+     12.22384
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-110",
+    "label": "Koubri well 110",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2025",
+    "funder": "[PENDING]",
+    "population_dependent": 320,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 25,
+    "pump_type": "India Mark II",
+    "depth_m": "52",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.77247,
+     11.46836
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-111",
+    "label": "Sapouy well 111",
+    "commune": "Sapouy",
+    "province": "Ziro",
+    "region": "Centre-Ouest",
+    "asset_type": "restored",
+    "year": "2017",
+    "funder": "[PENDING]",
+    "population_dependent": 950,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 20,
+    "pump_type": "Vergnet HPV-60",
+    "depth_m": "58",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.41027,
+     12.4095
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-112",
+    "label": "Saaba well 112",
+    "commune": "Saaba",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2024",
+    "funder": "[PENDING]",
+    "population_dependent": 240,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "BROKEN",
+    "report_count_month6": 34,
+    "pump_type": "[PENDING]",
+    "depth_m": "41",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.4108,
+     12.41704
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-113",
+    "label": "Saaba well 113",
+    "commune": "Saaba",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2019",
+    "funder": "School partner network",
+    "population_dependent": 320,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING_DEGRADING",
+    "report_count_month6": 30,
+    "pump_type": "[PENDING]",
+    "depth_m": "47",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.85448,
+     12.64767
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-114",
+    "label": "Bouss\u00e9 well 114",
+    "commune": "Bouss\u00e9",
+    "province": "Kourweogo",
+    "region": "Plateau-Central",
+    "asset_type": "restored",
+    "year": "2017",
+    "funder": "[PENDING]",
+    "population_dependent": 1500,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 28,
+    "pump_type": "India Mark II",
+    "depth_m": "41",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.97951,
+     12.1956
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-115",
+    "label": "Kokologho well 115",
+    "commune": "Kokologho",
+    "province": "Boulkiemde",
+    "region": "Centre-Ouest",
+    "asset_type": "restored",
+    "year": "2018",
+    "funder": "School partner network",
+    "population_dependent": 650,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "BROKEN",
+    "report_count_month6": 23,
+    "pump_type": "India Mark II",
+    "depth_m": "34",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.97558,
+     12.15334
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-116",
+    "label": "Kokologho well 116",
+    "commune": "Kokologho",
+    "province": "Boulkiemde",
+    "region": "Centre-Ouest",
+    "asset_type": "restored",
+    "year": "2018",
+    "funder": "[PENDING]",
+    "population_dependent": 1800,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 28,
+    "pump_type": "India Mark II",
+    "depth_m": "58",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.75381,
+     11.60393
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-117",
+    "label": "Sapouy well 117",
+    "commune": "Sapouy",
+    "province": "Ziro",
+    "region": "Centre-Ouest",
+    "asset_type": "restored",
+    "year": "2022",
+    "funder": "[PENDING]",
+    "population_dependent": 2200,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "NOT_REPORTED_SINCE",
+    "report_count_month6": 3,
+    "pump_type": "[PENDING]",
+    "depth_m": "52",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.47522,
+     11.94454
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-118",
+    "label": "Doulougou well 118",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "asset_type": "restored",
+    "year": "2022",
+    "funder": "School partner network",
+    "population_dependent": 3000,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "NEVER_REPORTED",
+    "report_count_month6": 0,
+    "pump_type": "India Mark II",
+    "depth_m": "58",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.04332,
+     12.25581
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-119",
+    "label": "Kokologho well 119",
+    "commune": "Kokologho",
+    "province": "Boulkiemde",
+    "region": "Centre-Ouest",
+    "asset_type": "restored",
+    "year": "2021",
+    "funder": "Newday Impact",
+    "population_dependent": 1500,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 26,
+    "pump_type": "[PENDING]",
+    "depth_m": "58",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.62752,
+     12.16307
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-120",
+    "label": "Komsilga well 120",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2020",
+    "funder": "Individual donors (Water Ball)",
+    "population_dependent": 320,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 36,
+    "pump_type": "India Mark II",
+    "depth_m": "34",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.35702,
+     12.10618
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-121",
+    "label": "Kombissiri well 121",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "asset_type": "restored",
+    "year": "2024",
+    "funder": "[PENDING]",
+    "population_dependent": 1500,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 14,
+    "pump_type": "India Mark II",
+    "depth_m": "47",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.65893,
+     12.18772
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-122",
+    "label": "Komsilga well 122",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2023",
+    "funder": "[PENDING]",
+    "population_dependent": 1800,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 6,
+    "pump_type": "Vergnet HPV-60",
+    "depth_m": "34",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.7513,
+     12.33316
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-123",
+    "label": "Tanghin-Dassouri well 123",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2023",
+    "funder": "Individual donors (Water Ball)",
+    "population_dependent": 950,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "NOT_REPORTED_SINCE",
+    "report_count_month6": 34,
+    "pump_type": "Volanta",
+    "depth_m": "41",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.56107,
+     12.14133
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-124",
+    "label": "Komsilga well 124",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2024",
+    "funder": "[PENDING]",
+    "population_dependent": 500,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 39,
+    "pump_type": "India Mark II",
+    "depth_m": "34",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.66453,
+     12.45531
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-125",
+    "label": "Pabre well 125",
+    "commune": "Pabre",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2021",
+    "funder": "Newday Impact",
+    "population_dependent": 240,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "NOT_REPORTED_SINCE",
+    "report_count_month6": 29,
+    "pump_type": "[PENDING]",
+    "depth_m": "63",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.8524,
+     12.6914
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-126",
+    "label": "Bouss\u00e9 well 126",
+    "commune": "Bouss\u00e9",
+    "province": "Kourweogo",
+    "region": "Plateau-Central",
+    "asset_type": "restored",
+    "year": "2017",
+    "funder": "[PENDING]",
+    "population_dependent": 320,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 23,
+    "pump_type": "Volanta",
+    "depth_m": "63",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.70758,
+     12.19014
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-127",
+    "label": "Tanghin-Dassouri well 127",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2020",
+    "funder": "Individual donors (Water Ball)",
+    "population_dependent": 800,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 15,
+    "pump_type": "Vergnet HPV-60",
+    "depth_m": "47",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.58756,
+     12.06873
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-128",
+    "label": "Doulougou well 128",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "asset_type": "restored",
+    "year": "2023",
+    "funder": "[PENDING]",
+    "population_dependent": 500,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "NEVER_REPORTED",
+    "report_count_month6": 0,
+    "pump_type": "India Mark II",
+    "depth_m": "34",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.60934,
+     12.03683
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-129",
+    "label": "Doulougou well 129",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "asset_type": "restored",
+    "year": "2017",
+    "funder": "Newday Impact",
+    "population_dependent": 2200,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 35,
+    "pump_type": "[PENDING]",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.76969,
+     11.48823
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-130",
+    "label": "Sapouy well 130",
+    "commune": "Sapouy",
+    "province": "Ziro",
+    "region": "Centre-Ouest",
+    "asset_type": "restored",
+    "year": "2018",
+    "funder": "[PENDING]",
+    "population_dependent": 3000,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "NOT_REPORTED_SINCE",
+    "report_count_month6": 17,
+    "pump_type": "India Mark II",
+    "depth_m": "63",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.69103,
+     12.56862
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-131",
+    "label": "Pabre well 131",
+    "commune": "Pabre",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2022",
+    "funder": "[PENDING]",
+    "population_dependent": 3000,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "NEVER_REPORTED",
+    "report_count_month6": 0,
+    "pump_type": "Vergnet HPV-60",
+    "depth_m": "41",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.60085,
+     12.20603
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-132",
+    "label": "Komsilga well 132",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2022",
+    "funder": "[PENDING]",
+    "population_dependent": 650,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING_DEGRADING",
+    "report_count_month6": 9,
+    "pump_type": "Volanta",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.42351,
+     12.41408
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-133",
+    "label": "Saaba well 133",
+    "commune": "Saaba",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2024",
+    "funder": "[PENDING]",
+    "population_dependent": 950,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 37,
+    "pump_type": "Vergnet HPV-60",
+    "depth_m": "52",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.11728,
+     12.26332
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-134",
+    "label": "Kokologho well 134",
+    "commune": "Kokologho",
+    "province": "Boulkiemde",
+    "region": "Centre-Ouest",
+    "asset_type": "restored",
+    "year": "2024",
+    "funder": "[PENDING]",
+    "population_dependent": 500,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 6,
+    "pump_type": "India Mark II",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.62336,
+     12.20784
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-135",
+    "label": "Komsilga well 135",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2021",
+    "funder": "[PENDING]",
+    "population_dependent": 800,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "NEVER_REPORTED",
+    "report_count_month6": 0,
+    "pump_type": "Volanta",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.54268,
+     12.16153
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-136",
+    "label": "Komsilga well 136",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2024",
+    "funder": "[PENDING]",
+    "population_dependent": 2200,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "BROKEN",
+    "report_count_month6": 38,
+    "pump_type": "Vergnet HPV-60",
+    "depth_m": "41",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.74086,
+     12.25198
+    ]
+   },
+   "properties": {
+    "well_id": "GBF-R-137",
+    "label": "Tanghin-Dassouri well 137",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "asset_type": "restored",
+    "year": "2018",
+    "funder": "Newday Impact",
+    "population_dependent": 800,
+    "status_today": "NEVER_REPORTED",
+    "status_month6_illustrative": "WORKING",
+    "report_count_month6": 41,
+    "pump_type": "India Mark II",
+    "depth_m": "",
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY",
+    "marker_state_today": "NEVER_REPORTED",
+    "marker_style": "dashed-outline-no-fill"
+   }
+  }
+ ]
+}

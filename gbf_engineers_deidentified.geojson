@@ -1,0 +1,6684 @@
+{
+ "type": "FeatureCollection",
+ "metadata": {
+  "layer": "Certified women engineers (de-identified)",
+  "count": 278,
+  "pii_removed": "name, phone, alt_contact deliberately excluded \u2014 never publish engineer identity",
+  "note": "Coordinates are ILLUSTRATIVE commune-centroid placeholders, not real asset positions. Replace with GBF's coordinate file. Do NOT host real asset coordinates or any personal data at a public URL.",
+  "cluster": true
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.34564,
+     12.22386
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-001",
+    "cohort": 1,
+    "cohort_year": 2017,
+    "certification_status": "CERTIFIED",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.9883,
+     12.19959
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-002",
+    "cohort": 1,
+    "cohort_year": 2017,
+    "certification_status": "CERTIFIED",
+    "commune": "Kokologho",
+    "province": "Boulkiemde",
+    "region": "Centre-Ouest",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 4,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.59626,
+     12.22819
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-003",
+    "cohort": 1,
+    "cohort_year": 2017,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 9,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.69817,
+     12.26039
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-004",
+    "cohort": 1,
+    "cohort_year": 2017,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.7159,
+     12.26309
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-005",
+    "cohort": 1,
+    "cohort_year": 2017,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.80508,
+     11.57198
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-006",
+    "cohort": 1,
+    "cohort_year": 2017,
+    "certification_status": "CERTIFIED",
+    "commune": "Sapouy",
+    "province": "Ziro",
+    "region": "Centre-Ouest",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 8,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.36994,
+     12.00704
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-007",
+    "cohort": 1,
+    "cohort_year": 2017,
+    "certification_status": "CERTIFIED",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.44216,
+     12.12451
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-008",
+    "cohort": 1,
+    "cohort_year": 2017,
+    "certification_status": "CERTIFIED",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 5,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.71293,
+     12.28979
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-009",
+    "cohort": 1,
+    "cohort_year": 2017,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.33104,
+     12.12541
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-010",
+    "cohort": 1,
+    "cohort_year": 2017,
+    "certification_status": "CERTIFIED",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.71185,
+     11.54098
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-011",
+    "cohort": 1,
+    "cohort_year": 2017,
+    "certification_status": "CERTIFIED",
+    "commune": "Sapouy",
+    "province": "Ziro",
+    "region": "Centre-Ouest",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 2,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.34408,
+     12.367
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-012",
+    "cohort": 1,
+    "cohort_year": 2017,
+    "certification_status": "CERTIFIED",
+    "commune": "Saaba",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.28846,
+     12.11972
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-013",
+    "cohort": 1,
+    "cohort_year": 2017,
+    "certification_status": "CERTIFIED",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.08069,
+     12.12368
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-014",
+    "cohort": 1,
+    "cohort_year": 2017,
+    "certification_status": "CERTIFIED",
+    "commune": "Kokologho",
+    "province": "Boulkiemde",
+    "region": "Centre-Ouest",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.78296,
+     11.49308
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-015",
+    "cohort": 1,
+    "cohort_year": 2017,
+    "certification_status": "CERTIFIED",
+    "commune": "Sapouy",
+    "province": "Ziro",
+    "region": "Centre-Ouest",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.57412,
+     12.04669
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-016",
+    "cohort": 1,
+    "cohort_year": 2017,
+    "certification_status": "CERTIFIED",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 7,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.55802,
+     12.07324
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-017",
+    "cohort": 1,
+    "cohort_year": 2017,
+    "certification_status": "CERTIFIED",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.62791,
+     12.16536
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-018",
+    "cohort": 1,
+    "cohort_year": 2017,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 1,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.36915,
+     12.35603
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-019",
+    "cohort": 1,
+    "cohort_year": 2017,
+    "certification_status": "CERTIFIED",
+    "commune": "Saaba",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 8,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.60295,
+     12.25786
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-020",
+    "cohort": 1,
+    "cohort_year": 2017,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.56812,
+     12.19817
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-021",
+    "cohort": 1,
+    "cohort_year": 2017,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.45965,
+     12.21188
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-022",
+    "cohort": 1,
+    "cohort_year": 2017,
+    "certification_status": "CERTIFIED",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 6,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.49058,
+     12.0598
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-023",
+    "cohort": 1,
+    "cohort_year": 2017,
+    "certification_status": "CERTIFIED",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 4,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.56952,
+     12.20206
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-024",
+    "cohort": 1,
+    "cohort_year": 2017,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 8,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.55563,
+     12.02398
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-025",
+    "cohort": 1,
+    "cohort_year": 2017,
+    "certification_status": "CERTIFIED",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.50654,
+     12.02974
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-026",
+    "cohort": 1,
+    "cohort_year": 2017,
+    "certification_status": "CERTIFIED",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.70327,
+     12.22877
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-027",
+    "cohort": 1,
+    "cohort_year": 2017,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.60675,
+     12.01232
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-028",
+    "cohort": 1,
+    "cohort_year": 2017,
+    "certification_status": "CERTIFIED",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 9,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.65996,
+     12.44553
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-029",
+    "cohort": 2,
+    "cohort_year": 2018,
+    "certification_status": "CERTIFIED",
+    "commune": "Pabre",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 3,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.45278,
+     12.20495
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-030",
+    "cohort": 2,
+    "cohort_year": 2018,
+    "certification_status": "CERTIFIED",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.65336,
+     12.21874
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-031",
+    "cohort": 2,
+    "cohort_year": 2018,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.65311,
+     12.30886
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-032",
+    "cohort": 2,
+    "cohort_year": 2018,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.04247,
+     12.16693
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-033",
+    "cohort": 2,
+    "cohort_year": 2018,
+    "certification_status": "CERTIFIED",
+    "commune": "Kokologho",
+    "province": "Boulkiemde",
+    "region": "Centre-Ouest",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.50426,
+     11.9757
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-034",
+    "cohort": 2,
+    "cohort_year": 2018,
+    "certification_status": "CERTIFIED",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 5,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.45859,
+     12.40215
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-035",
+    "cohort": 2,
+    "cohort_year": 2018,
+    "certification_status": "CERTIFIED",
+    "commune": "Saaba",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.42717,
+     12.13083
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-036",
+    "cohort": 2,
+    "cohort_year": 2018,
+    "certification_status": "CERTIFIED",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 6,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.59736,
+     12.18263
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-037",
+    "cohort": 2,
+    "cohort_year": 2018,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.5662,
+     12.16177
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-038",
+    "cohort": 2,
+    "cohort_year": 2018,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 2,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.92415,
+     12.60107
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-039",
+    "cohort": 2,
+    "cohort_year": 2018,
+    "certification_status": "CERTIFIED",
+    "commune": "Bouss\u00e9",
+    "province": "Kourweogo",
+    "region": "Plateau-Central",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.39251,
+     12.10161
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-040",
+    "cohort": 2,
+    "cohort_year": 2018,
+    "certification_status": "CERTIFIED",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 1,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.36299,
+     12.08576
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-041",
+    "cohort": 2,
+    "cohort_year": 2018,
+    "certification_status": "CERTIFIED",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 5,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.99382,
+     12.20357
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-042",
+    "cohort": 2,
+    "cohort_year": 2018,
+    "certification_status": "CERTIFIED",
+    "commune": "Kokologho",
+    "province": "Boulkiemde",
+    "region": "Centre-Ouest",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.54015,
+     12.01502
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-043",
+    "cohort": 2,
+    "cohort_year": 2018,
+    "certification_status": "CERTIFIED",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 2,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.34922,
+     12.13927
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-044",
+    "cohort": 2,
+    "cohort_year": 2018,
+    "certification_status": "CERTIFIED",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 2,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.64025,
+     12.16879
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-045",
+    "cohort": 2,
+    "cohort_year": 2018,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.58903,
+     11.97342
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-046",
+    "cohort": 2,
+    "cohort_year": 2018,
+    "certification_status": "CERTIFIED",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 7,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.38309,
+     12.06087
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-047",
+    "cohort": 2,
+    "cohort_year": 2018,
+    "certification_status": "CERTIFIED",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.6485,
+     12.17192
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-048",
+    "cohort": 2,
+    "cohort_year": 2018,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.64967,
+     12.52676
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-049",
+    "cohort": 2,
+    "cohort_year": 2018,
+    "certification_status": "CERTIFIED",
+    "commune": "Pabre",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 3,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.64152,
+     12.4873
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-050",
+    "cohort": 2,
+    "cohort_year": 2018,
+    "certification_status": "CERTIFIED",
+    "commune": "Pabre",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 8,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.35885,
+     12.19617
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-051",
+    "cohort": 2,
+    "cohort_year": 2018,
+    "certification_status": "CERTIFIED",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.61151,
+     12.51814
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-052",
+    "cohort": 2,
+    "cohort_year": 2018,
+    "certification_status": "CERTIFIED",
+    "commune": "Pabre",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 9,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.32351,
+     12.07226
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-053",
+    "cohort": 2,
+    "cohort_year": 2018,
+    "certification_status": "CERTIFIED",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.61532,
+     12.46218
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-054",
+    "cohort": 2,
+    "cohort_year": 2018,
+    "certification_status": "CERTIFIED",
+    "commune": "Pabre",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.38328,
+     12.08286
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-055",
+    "cohort": 2,
+    "cohort_year": 2018,
+    "certification_status": "CERTIFIED",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.60908,
+     12.20182
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-056",
+    "cohort": 2,
+    "cohort_year": 2018,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.68203,
+     12.27954
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-057",
+    "cohort": 2,
+    "cohort_year": 2018,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 3,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.541,
+     12.20782
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-058",
+    "cohort": 2,
+    "cohort_year": 2018,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.45727,
+     12.21493
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-059",
+    "cohort": 3,
+    "cohort_year": 2019,
+    "certification_status": "CERTIFIED",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.08304,
+     12.20334
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-060",
+    "cohort": 3,
+    "cohort_year": 2019,
+    "certification_status": "CERTIFIED",
+    "commune": "Kokologho",
+    "province": "Boulkiemde",
+    "region": "Centre-Ouest",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 1,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.56495,
+     12.45867
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-061",
+    "cohort": 3,
+    "cohort_year": 2019,
+    "certification_status": "CERTIFIED",
+    "commune": "Pabre",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.40125,
+     12.16488
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-062",
+    "cohort": 3,
+    "cohort_year": 2019,
+    "certification_status": "CERTIFIED",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 7,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.50575,
+     11.98101
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-063",
+    "cohort": 3,
+    "cohort_year": 2019,
+    "certification_status": "CERTIFIED",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.31808,
+     12.07257
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-064",
+    "cohort": 3,
+    "cohort_year": 2019,
+    "certification_status": "CERTIFIED",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 7,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.70594,
+     12.22598
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-065",
+    "cohort": 3,
+    "cohort_year": 2019,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.33625,
+     12.06113
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-066",
+    "cohort": 3,
+    "cohort_year": 2019,
+    "certification_status": "CERTIFIED",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 9,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.42775,
+     12.20113
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-067",
+    "cohort": 3,
+    "cohort_year": 2019,
+    "certification_status": "CERTIFIED",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.70353,
+     12.26689
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-068",
+    "cohort": 3,
+    "cohort_year": 2019,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.62675,
+     12.23156
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-069",
+    "cohort": 3,
+    "cohort_year": 2019,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 8,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.89015,
+     12.59042
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-070",
+    "cohort": 3,
+    "cohort_year": 2019,
+    "certification_status": "CERTIFIED",
+    "commune": "Bouss\u00e9",
+    "province": "Kourweogo",
+    "region": "Plateau-Central",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 3,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.40581,
+     12.22439
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-071",
+    "cohort": 3,
+    "cohort_year": 2019,
+    "certification_status": "CERTIFIED",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 1,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.63179,
+     12.21407
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-072",
+    "cohort": 3,
+    "cohort_year": 2019,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.62607,
+     12.27902
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-073",
+    "cohort": 3,
+    "cohort_year": 2019,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 9,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.52836,
+     12.07138
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-074",
+    "cohort": 3,
+    "cohort_year": 2019,
+    "certification_status": "CERTIFIED",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 7,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.9322,
+     12.70136
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-075",
+    "cohort": 3,
+    "cohort_year": 2019,
+    "certification_status": "CERTIFIED",
+    "commune": "Bouss\u00e9",
+    "province": "Kourweogo",
+    "region": "Plateau-Central",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 1,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.57164,
+     12.46387
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-076",
+    "cohort": 3,
+    "cohort_year": 2019,
+    "certification_status": "CERTIFIED",
+    "commune": "Pabre",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.8777,
+     12.60011
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-077",
+    "cohort": 3,
+    "cohort_year": 2019,
+    "certification_status": "CERTIFIED",
+    "commune": "Bouss\u00e9",
+    "province": "Kourweogo",
+    "region": "Plateau-Central",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.91524,
+     12.65033
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-078",
+    "cohort": 3,
+    "cohort_year": 2019,
+    "certification_status": "CERTIFIED",
+    "commune": "Bouss\u00e9",
+    "province": "Kourweogo",
+    "region": "Plateau-Central",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.62999,
+     12.14806
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-079",
+    "cohort": 3,
+    "cohort_year": 2019,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.60278,
+     12.18153
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-080",
+    "cohort": 3,
+    "cohort_year": 2019,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 2,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.90059,
+     12.62773
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-081",
+    "cohort": 3,
+    "cohort_year": 2019,
+    "certification_status": "CERTIFIED",
+    "commune": "Bouss\u00e9",
+    "province": "Kourweogo",
+    "region": "Plateau-Central",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.4573,
+     12.31952
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-082",
+    "cohort": 3,
+    "cohort_year": 2019,
+    "certification_status": "CERTIFIED",
+    "commune": "Saaba",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 2,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.73875,
+     11.58549
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-083",
+    "cohort": 3,
+    "cohort_year": 2019,
+    "certification_status": "CERTIFIED",
+    "commune": "Sapouy",
+    "province": "Ziro",
+    "region": "Centre-Ouest",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.56253,
+     12.51742
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-084",
+    "cohort": 3,
+    "cohort_year": 2019,
+    "certification_status": "CERTIFIED",
+    "commune": "Pabre",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.05797,
+     12.16136
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-085",
+    "cohort": 3,
+    "cohort_year": 2019,
+    "certification_status": "CERTIFIED",
+    "commune": "Kokologho",
+    "province": "Boulkiemde",
+    "region": "Centre-Ouest",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 7,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.3617,
+     12.11278
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-086",
+    "cohort": 3,
+    "cohort_year": 2019,
+    "certification_status": "CERTIFIED",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.35348,
+     12.0462
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-087",
+    "cohort": 3,
+    "cohort_year": 2019,
+    "certification_status": "CERTIFIED",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.44986,
+     12.33076
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-088",
+    "cohort": 3,
+    "cohort_year": 2019,
+    "certification_status": "CERTIFIED",
+    "commune": "Saaba",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.3723,
+     12.20509
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-089",
+    "cohort": 3,
+    "cohort_year": 2019,
+    "certification_status": "CERTIFIED",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 3,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.66196,
+     12.28733
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-090",
+    "cohort": 3,
+    "cohort_year": 2019,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.35561,
+     12.34574
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-091",
+    "cohort": 4,
+    "cohort_year": 2020,
+    "certification_status": "CERTIFIED",
+    "commune": "Saaba",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.4463,
+     12.41682
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-092",
+    "cohort": 4,
+    "cohort_year": 2020,
+    "certification_status": "CERTIFIED",
+    "commune": "Saaba",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.7139,
+     12.29665
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-093",
+    "cohort": 4,
+    "cohort_year": 2020,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.54079,
+     12.19669
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-094",
+    "cohort": 4,
+    "cohort_year": 2020,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 6,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.73223,
+     12.22378
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-095",
+    "cohort": 4,
+    "cohort_year": 2020,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 3,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.64592,
+     12.30813
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-096",
+    "cohort": 4,
+    "cohort_year": 2020,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.55587,
+     12.20998
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-097",
+    "cohort": 4,
+    "cohort_year": 2020,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 8,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.35063,
+     12.02684
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-098",
+    "cohort": 4,
+    "cohort_year": 2020,
+    "certification_status": "CERTIFIED",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.34686,
+     12.13439
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-099",
+    "cohort": 4,
+    "cohort_year": 2020,
+    "certification_status": "CERTIFIED",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 4,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.0906,
+     12.18647
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-100",
+    "cohort": 4,
+    "cohort_year": 2020,
+    "certification_status": "CERTIFIED",
+    "commune": "Kokologho",
+    "province": "Boulkiemde",
+    "region": "Centre-Ouest",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 8,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.55967,
+     12.15973
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-101",
+    "cohort": 4,
+    "cohort_year": 2020,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 9,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.64566,
+     12.28342
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-102",
+    "cohort": 4,
+    "cohort_year": 2020,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.56195,
+     11.99325
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-103",
+    "cohort": 4,
+    "cohort_year": 2020,
+    "certification_status": "CERTIFIED",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.52534,
+     12.02963
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-104",
+    "cohort": 4,
+    "cohort_year": 2020,
+    "certification_status": "CERTIFIED",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.58486,
+     12.22332
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-105",
+    "cohort": 4,
+    "cohort_year": 2020,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.57107,
+     12.50138
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-106",
+    "cohort": 4,
+    "cohort_year": 2020,
+    "certification_status": "CERTIFIED",
+    "commune": "Pabre",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 3,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.30391,
+     12.05429
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-107",
+    "cohort": 4,
+    "cohort_year": 2020,
+    "certification_status": "CERTIFIED",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.64767,
+     12.50634
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-108",
+    "cohort": 4,
+    "cohort_year": 2020,
+    "certification_status": "CERTIFIED",
+    "commune": "Pabre",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 3,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.42428,
+     12.18783
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-109",
+    "cohort": 4,
+    "cohort_year": 2020,
+    "certification_status": "CERTIFIED",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.64175,
+     12.19625
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-110",
+    "cohort": 4,
+    "cohort_year": 2020,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.60293,
+     12.23026
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-111",
+    "cohort": 4,
+    "cohort_year": 2020,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 8,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.72392,
+     12.30048
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-112",
+    "cohort": 4,
+    "cohort_year": 2020,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 9,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.6594,
+     12.29488
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-113",
+    "cohort": 4,
+    "cohort_year": 2020,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 8,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.57792,
+     12.06748
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-114",
+    "cohort": 4,
+    "cohort_year": 2020,
+    "certification_status": "CERTIFIED",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 2,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.34959,
+     12.3948
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-115",
+    "cohort": 4,
+    "cohort_year": 2020,
+    "certification_status": "CERTIFIED",
+    "commune": "Saaba",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 8,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.34636,
+     12.05686
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-116",
+    "cohort": 4,
+    "cohort_year": 2020,
+    "certification_status": "CERTIFIED",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 3,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.62538,
+     12.25584
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-117",
+    "cohort": 5,
+    "cohort_year": 2021,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 8,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.66013,
+     12.21108
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-118",
+    "cohort": 5,
+    "cohort_year": 2021,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.57169,
+     12.06267
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-119",
+    "cohort": 5,
+    "cohort_year": 2021,
+    "certification_status": "CERTIFIED",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.54246,
+     12.14147
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-120",
+    "cohort": 5,
+    "cohort_year": 2021,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 6,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.67481,
+     12.4819
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-121",
+    "cohort": 5,
+    "cohort_year": 2021,
+    "certification_status": "CERTIFIED",
+    "commune": "Pabre",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.71764,
+     12.30088
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-122",
+    "cohort": 5,
+    "cohort_year": 2021,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 7,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.73276,
+     12.21827
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-123",
+    "cohort": 5,
+    "cohort_year": 2021,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 8,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.59409,
+     12.2025
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-124",
+    "cohort": 5,
+    "cohort_year": 2021,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.40715,
+     12.1872
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-125",
+    "cohort": 5,
+    "cohort_year": 2021,
+    "certification_status": "CERTIFIED",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 5,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.37903,
+     12.16748
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-126",
+    "cohort": 5,
+    "cohort_year": 2021,
+    "certification_status": "CERTIFIED",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.36969,
+     12.00725
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-127",
+    "cohort": 5,
+    "cohort_year": 2021,
+    "certification_status": "CERTIFIED",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 2,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.6373,
+     12.25096
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-128",
+    "cohort": 5,
+    "cohort_year": 2021,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.74081,
+     12.20365
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-129",
+    "cohort": 5,
+    "cohort_year": 2021,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.65324,
+     12.54312
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-130",
+    "cohort": 5,
+    "cohort_year": 2021,
+    "certification_status": "CERTIFIED",
+    "commune": "Pabre",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 9,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.57726,
+     12.48489
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-131",
+    "cohort": 5,
+    "cohort_year": 2021,
+    "certification_status": "CERTIFIED",
+    "commune": "Pabre",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 1,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.57167,
+     12.55836
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-132",
+    "cohort": 5,
+    "cohort_year": 2021,
+    "certification_status": "CERTIFIED",
+    "commune": "Pabre",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.38351,
+     12.14423
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-133",
+    "cohort": 5,
+    "cohort_year": 2021,
+    "certification_status": "CERTIFIED",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.67491,
+     12.19216
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-134",
+    "cohort": 5,
+    "cohort_year": 2021,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.64459,
+     12.29911
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-135",
+    "cohort": 5,
+    "cohort_year": 2021,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.58156,
+     12.23627
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-136",
+    "cohort": 5,
+    "cohort_year": 2021,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.64918,
+     12.1609
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-137",
+    "cohort": 5,
+    "cohort_year": 2021,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.64522,
+     12.44304
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-138",
+    "cohort": 5,
+    "cohort_year": 2021,
+    "certification_status": "CERTIFIED",
+    "commune": "Pabre",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.88376,
+     12.70028
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-139",
+    "cohort": 5,
+    "cohort_year": 2021,
+    "certification_status": "CERTIFIED",
+    "commune": "Bouss\u00e9",
+    "province": "Kourweogo",
+    "region": "Plateau-Central",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 5,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.34859,
+     12.33925
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-140",
+    "cohort": 5,
+    "cohort_year": 2021,
+    "certification_status": "CERTIFIED",
+    "commune": "Saaba",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 4,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.91627,
+     12.64
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-141",
+    "cohort": 5,
+    "cohort_year": 2021,
+    "certification_status": "CERTIFIED",
+    "commune": "Bouss\u00e9",
+    "province": "Kourweogo",
+    "region": "Plateau-Central",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 4,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.66116,
+     12.20051
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-142",
+    "cohort": 5,
+    "cohort_year": 2021,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.88103,
+     12.67791
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-143",
+    "cohort": 5,
+    "cohort_year": 2021,
+    "certification_status": "CERTIFIED",
+    "commune": "Bouss\u00e9",
+    "province": "Kourweogo",
+    "region": "Plateau-Central",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 8,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.60478,
+     12.19323
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-144",
+    "cohort": 5,
+    "cohort_year": 2021,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 5,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.08227,
+     12.1326
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-145",
+    "cohort": 5,
+    "cohort_year": 2021,
+    "certification_status": "CERTIFIED",
+    "commune": "Kokologho",
+    "province": "Boulkiemde",
+    "region": "Centre-Ouest",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.35768,
+     12.04849
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-146",
+    "cohort": 5,
+    "cohort_year": 2021,
+    "certification_status": "CERTIFIED",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.653,
+     12.16542
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-147",
+    "cohort": 5,
+    "cohort_year": 2021,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.58541,
+     12.47106
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-148",
+    "cohort": 5,
+    "cohort_year": 2021,
+    "certification_status": "CERTIFIED",
+    "commune": "Pabre",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 6,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.62556,
+     12.55333
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-149",
+    "cohort": 5,
+    "cohort_year": 2021,
+    "certification_status": "CERTIFIED",
+    "commune": "Pabre",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 2,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.07101,
+     12.14681
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-150",
+    "cohort": 5,
+    "cohort_year": 2021,
+    "certification_status": "CERTIFIED",
+    "commune": "Kokologho",
+    "province": "Boulkiemde",
+    "region": "Centre-Ouest",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.58739,
+     12.00806
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-151",
+    "cohort": 6,
+    "cohort_year": 2022,
+    "certification_status": "CERTIFIED",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 2,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.73684,
+     12.22966
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-152",
+    "cohort": 6,
+    "cohort_year": 2022,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.41499,
+     12.18717
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-153",
+    "cohort": 6,
+    "cohort_year": 2022,
+    "certification_status": "CERTIFIED",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.62807,
+     12.19513
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-154",
+    "cohort": 6,
+    "cohort_year": 2022,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 4,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.63422,
+     12.20253
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-155",
+    "cohort": 6,
+    "cohort_year": 2022,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.73168,
+     12.22328
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-156",
+    "cohort": 6,
+    "cohort_year": 2022,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.05224,
+     12.23479
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-157",
+    "cohort": 6,
+    "cohort_year": 2022,
+    "certification_status": "CERTIFIED",
+    "commune": "Kokologho",
+    "province": "Boulkiemde",
+    "region": "Centre-Ouest",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 2,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.77382,
+     11.53819
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-158",
+    "cohort": 6,
+    "cohort_year": 2022,
+    "certification_status": "CERTIFIED",
+    "commune": "Sapouy",
+    "province": "Ziro",
+    "region": "Centre-Ouest",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.71243,
+     12.22946
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-159",
+    "cohort": 6,
+    "cohort_year": 2022,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.63557,
+     12.2504
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-160",
+    "cohort": 6,
+    "cohort_year": 2022,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 8,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.60126,
+     12.23487
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-161",
+    "cohort": 6,
+    "cohort_year": 2022,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.32207,
+     12.03079
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-162",
+    "cohort": 6,
+    "cohort_year": 2022,
+    "certification_status": "CERTIFIED",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.02528,
+     12.21007
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-163",
+    "cohort": 6,
+    "cohort_year": 2022,
+    "certification_status": "CERTIFIED",
+    "commune": "Kokologho",
+    "province": "Boulkiemde",
+    "region": "Centre-Ouest",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.6775,
+     12.30047
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-164",
+    "cohort": 6,
+    "cohort_year": 2022,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.62941,
+     12.44819
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-165",
+    "cohort": 6,
+    "cohort_year": 2022,
+    "certification_status": "CERTIFIED",
+    "commune": "Pabre",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.58534,
+     12.05297
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-166",
+    "cohort": 6,
+    "cohort_year": 2022,
+    "certification_status": "CERTIFIED",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.54116,
+     12.25223
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-167",
+    "cohort": 6,
+    "cohort_year": 2022,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 3,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.62612,
+     12.20843
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-168",
+    "cohort": 6,
+    "cohort_year": 2022,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 1,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.68057,
+     12.25422
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-169",
+    "cohort": 6,
+    "cohort_year": 2022,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 9,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.66352,
+     12.2597
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-170",
+    "cohort": 6,
+    "cohort_year": 2022,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.37293,
+     12.07516
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-171",
+    "cohort": 6,
+    "cohort_year": 2022,
+    "certification_status": "CERTIFIED",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.60467,
+     12.06562
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-172",
+    "cohort": 6,
+    "cohort_year": 2022,
+    "certification_status": "CERTIFIED",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 7,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.55583,
+     12.16969
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-173",
+    "cohort": 6,
+    "cohort_year": 2022,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.55846,
+     12.01134
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-174",
+    "cohort": 6,
+    "cohort_year": 2022,
+    "certification_status": "CERTIFIED",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 4,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.71363,
+     11.55961
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-175",
+    "cohort": 6,
+    "cohort_year": 2022,
+    "certification_status": "CERTIFIED",
+    "commune": "Sapouy",
+    "province": "Ziro",
+    "region": "Centre-Ouest",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.58778,
+     12.22158
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-176",
+    "cohort": 6,
+    "cohort_year": 2022,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 8,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.54457,
+     12.20464
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-177",
+    "cohort": 6,
+    "cohort_year": 2022,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.56431,
+     12.17098
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-178",
+    "cohort": 6,
+    "cohort_year": 2022,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.81756,
+     11.55554
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-179",
+    "cohort": 6,
+    "cohort_year": 2022,
+    "certification_status": "CERTIFIED",
+    "commune": "Sapouy",
+    "province": "Ziro",
+    "region": "Centre-Ouest",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 9,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.69566,
+     12.22397
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-180",
+    "cohort": 6,
+    "cohort_year": 2022,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.38247,
+     12.13475
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-181",
+    "cohort": 6,
+    "cohort_year": 2022,
+    "certification_status": "CERTIFIED",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 6,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.64391,
+     12.53644
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-182",
+    "cohort": 6,
+    "cohort_year": 2022,
+    "certification_status": "CERTIFIED",
+    "commune": "Pabre",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 7,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.35798,
+     12.20803
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-183",
+    "cohort": 6,
+    "cohort_year": 2022,
+    "certification_status": "CERTIFIED",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 1,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.62612,
+     12.18427
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-184",
+    "cohort": 6,
+    "cohort_year": 2022,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.43309,
+     12.39188
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-185",
+    "cohort": 6,
+    "cohort_year": 2022,
+    "certification_status": "CERTIFIED",
+    "commune": "Saaba",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 2,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.51291,
+     11.99669
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-186",
+    "cohort": 6,
+    "cohort_year": 2022,
+    "certification_status": "CERTIFIED",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 8,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.59828,
+     12.06148
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-187",
+    "cohort": 7,
+    "cohort_year": 2023,
+    "certification_status": "CERTIFIED",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 5,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.71232,
+     11.59961
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-188",
+    "cohort": 7,
+    "cohort_year": 2023,
+    "certification_status": "CERTIFIED",
+    "commune": "Sapouy",
+    "province": "Ziro",
+    "region": "Centre-Ouest",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.56961,
+     12.19955
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-189",
+    "cohort": 7,
+    "cohort_year": 2023,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 3,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.56006,
+     12.04117
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-190",
+    "cohort": 7,
+    "cohort_year": 2023,
+    "certification_status": "CERTIFIED",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.85676,
+     12.61484
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-191",
+    "cohort": 7,
+    "cohort_year": 2023,
+    "certification_status": "CERTIFIED",
+    "commune": "Bouss\u00e9",
+    "province": "Kourweogo",
+    "region": "Plateau-Central",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.7274,
+     11.55834
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-192",
+    "cohort": 7,
+    "cohort_year": 2023,
+    "certification_status": "CERTIFIED",
+    "commune": "Sapouy",
+    "province": "Ziro",
+    "region": "Centre-Ouest",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.70283,
+     12.21322
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-193",
+    "cohort": 7,
+    "cohort_year": 2023,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 8,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.37098,
+     12.1086
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-194",
+    "cohort": 7,
+    "cohort_year": 2023,
+    "certification_status": "CERTIFIED",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.70686,
+     11.55957
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-195",
+    "cohort": 7,
+    "cohort_year": 2023,
+    "certification_status": "CERTIFIED",
+    "commune": "Sapouy",
+    "province": "Ziro",
+    "region": "Centre-Ouest",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 9,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.55757,
+     12.25799
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-196",
+    "cohort": 7,
+    "cohort_year": 2023,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 8,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.54185,
+     12.16826
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-197",
+    "cohort": 7,
+    "cohort_year": 2023,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.75654,
+     11.50428
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-198",
+    "cohort": 7,
+    "cohort_year": 2023,
+    "certification_status": "CERTIFIED",
+    "commune": "Sapouy",
+    "province": "Ziro",
+    "region": "Centre-Ouest",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.63859,
+     12.22158
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-199",
+    "cohort": 7,
+    "cohort_year": 2023,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.89357,
+     12.66823
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-200",
+    "cohort": 7,
+    "cohort_year": 2023,
+    "certification_status": "CERTIFIED",
+    "commune": "Bouss\u00e9",
+    "province": "Kourweogo",
+    "region": "Plateau-Central",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 3,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.4465,
+     12.12359
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-201",
+    "cohort": 7,
+    "cohort_year": 2023,
+    "certification_status": "CERTIFIED",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.73425,
+     11.50673
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-202",
+    "cohort": 7,
+    "cohort_year": 2023,
+    "certification_status": "CERTIFIED",
+    "commune": "Sapouy",
+    "province": "Ziro",
+    "region": "Centre-Ouest",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.72411,
+     12.28831
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-203",
+    "cohort": 7,
+    "cohort_year": 2023,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.74317,
+     12.3036
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-204",
+    "cohort": 7,
+    "cohort_year": 2023,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.72093,
+     12.29761
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-205",
+    "cohort": 7,
+    "cohort_year": 2023,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 5,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.35359,
+     12.03158
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-206",
+    "cohort": 7,
+    "cohort_year": 2023,
+    "certification_status": "CERTIFIED",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.61716,
+     12.19069
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-207",
+    "cohort": 7,
+    "cohort_year": 2023,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.43184,
+     12.39469
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-208",
+    "cohort": 7,
+    "cohort_year": 2023,
+    "certification_status": "CERTIFIED",
+    "commune": "Saaba",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 7,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.32458,
+     12.06814
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-209",
+    "cohort": 7,
+    "cohort_year": 2023,
+    "certification_status": "CERTIFIED",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.39551,
+     12.2329
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-210",
+    "cohort": 7,
+    "cohort_year": 2023,
+    "certification_status": "CERTIFIED",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 6,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.60766,
+     12.22732
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-211",
+    "cohort": 7,
+    "cohort_year": 2023,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.00989,
+     12.14773
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-212",
+    "cohort": 7,
+    "cohort_year": 2023,
+    "certification_status": "CERTIFIED",
+    "commune": "Kokologho",
+    "province": "Boulkiemde",
+    "region": "Centre-Ouest",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 3,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.44138,
+     12.22879
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-213",
+    "cohort": 7,
+    "cohort_year": 2023,
+    "certification_status": "CERTIFIED",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.55167,
+     11.96669
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-214",
+    "cohort": 7,
+    "cohort_year": 2023,
+    "certification_status": "CERTIFIED",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 7,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.27343,
+     12.08609
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-215",
+    "cohort": 7,
+    "cohort_year": 2023,
+    "certification_status": "CERTIFIED",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.30624,
+     12.0783
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-216",
+    "cohort": 7,
+    "cohort_year": 2023,
+    "certification_status": "CERTIFIED",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 7,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.67939,
+     12.22424
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-217",
+    "cohort": 7,
+    "cohort_year": 2023,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.05544,
+     12.17833
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-218",
+    "cohort": 7,
+    "cohort_year": 2023,
+    "certification_status": "CERTIFIED",
+    "commune": "Kokologho",
+    "province": "Boulkiemde",
+    "region": "Centre-Ouest",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 4,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.07275,
+     12.12667
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-219",
+    "cohort": 7,
+    "cohort_year": 2023,
+    "certification_status": "CERTIFIED",
+    "commune": "Kokologho",
+    "province": "Boulkiemde",
+    "region": "Centre-Ouest",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 8,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.33709,
+     12.07605
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-220",
+    "cohort": 7,
+    "cohort_year": 2023,
+    "certification_status": "CERTIFIED",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 1,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.34226,
+     12.08448
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-221",
+    "cohort": 7,
+    "cohort_year": 2023,
+    "certification_status": "CERTIFIED",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 2,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.60861,
+     12.24406
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-222",
+    "cohort": 7,
+    "cohort_year": 2023,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 8,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.562,
+     12.2595
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-223",
+    "cohort": 7,
+    "cohort_year": 2023,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.43657,
+     12.16693
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-224",
+    "cohort": 7,
+    "cohort_year": 2023,
+    "certification_status": "CERTIFIED",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.64539,
+     12.53498
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-225",
+    "cohort": 8,
+    "cohort_year": 2024,
+    "certification_status": "CERTIFIED",
+    "commune": "Pabre",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.54732,
+     12.16746
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-226",
+    "cohort": 8,
+    "cohort_year": 2024,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.81283,
+     11.50654
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-227",
+    "cohort": 8,
+    "cohort_year": 2024,
+    "certification_status": "CERTIFIED",
+    "commune": "Sapouy",
+    "province": "Ziro",
+    "region": "Centre-Ouest",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 2,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.83376,
+     12.62898
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-228",
+    "cohort": 8,
+    "cohort_year": 2024,
+    "certification_status": "CERTIFIED",
+    "commune": "Bouss\u00e9",
+    "province": "Kourweogo",
+    "region": "Plateau-Central",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.43737,
+     12.16151
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-229",
+    "cohort": 8,
+    "cohort_year": 2024,
+    "certification_status": "CERTIFIED",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 1,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.06738,
+     12.1816
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-230",
+    "cohort": 8,
+    "cohort_year": 2024,
+    "certification_status": "CERTIFIED",
+    "commune": "Kokologho",
+    "province": "Boulkiemde",
+    "region": "Centre-Ouest",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.5886,
+     12.14853
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-231",
+    "cohort": 8,
+    "cohort_year": 2024,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 5,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.92135,
+     12.59382
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-232",
+    "cohort": 8,
+    "cohort_year": 2024,
+    "certification_status": "CERTIFIED",
+    "commune": "Bouss\u00e9",
+    "province": "Kourweogo",
+    "region": "Plateau-Central",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.98463,
+     12.22739
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-233",
+    "cohort": 8,
+    "cohort_year": 2024,
+    "certification_status": "CERTIFIED",
+    "commune": "Kokologho",
+    "province": "Boulkiemde",
+    "region": "Centre-Ouest",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.63724,
+     12.18174
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-234",
+    "cohort": 8,
+    "cohort_year": 2024,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 1,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.70949,
+     12.2612
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-235",
+    "cohort": 8,
+    "cohort_year": 2024,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.70767,
+     12.2448
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-236",
+    "cohort": 8,
+    "cohort_year": 2024,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.54471,
+     12.00451
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-237",
+    "cohort": 8,
+    "cohort_year": 2024,
+    "certification_status": "CERTIFIED",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 6,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.75959,
+     11.53738
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-238",
+    "cohort": 8,
+    "cohort_year": 2024,
+    "certification_status": "CERTIFIED",
+    "commune": "Sapouy",
+    "province": "Ziro",
+    "region": "Centre-Ouest",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.77523,
+     11.58877
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-239",
+    "cohort": 8,
+    "cohort_year": 2024,
+    "certification_status": "CERTIFIED",
+    "commune": "Sapouy",
+    "province": "Ziro",
+    "region": "Centre-Ouest",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.61121,
+     12.18776
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-240",
+    "cohort": 8,
+    "cohort_year": 2024,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.63593,
+     12.26417
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-241",
+    "cohort": 8,
+    "cohort_year": 2024,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 5,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.02021,
+     12.22779
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-242",
+    "cohort": 8,
+    "cohort_year": 2024,
+    "certification_status": "CERTIFIED",
+    "commune": "Kokologho",
+    "province": "Boulkiemde",
+    "region": "Centre-Ouest",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.34425,
+     12.03929
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-243",
+    "cohort": 8,
+    "cohort_year": 2024,
+    "certification_status": "CERTIFIED",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 4,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.38029,
+     12.03914
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-244",
+    "cohort": 8,
+    "cohort_year": 2024,
+    "certification_status": "CERTIFIED",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 4,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.6319,
+     12.24033
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-245",
+    "cohort": 8,
+    "cohort_year": 2024,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.73465,
+     12.288
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-246",
+    "cohort": 8,
+    "cohort_year": 2024,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.58304,
+     12.17021
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-247",
+    "cohort": 8,
+    "cohort_year": 2024,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 6,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.72279,
+     12.23965
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-248",
+    "cohort": 8,
+    "cohort_year": 2024,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.72519,
+     12.19655
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-249",
+    "cohort": 8,
+    "cohort_year": 2024,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.64529,
+     12.1425
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-250",
+    "cohort": 8,
+    "cohort_year": 2024,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.8562,
+     12.60397
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-251",
+    "cohort": 8,
+    "cohort_year": 2024,
+    "certification_status": "CERTIFIED",
+    "commune": "Bouss\u00e9",
+    "province": "Kourweogo",
+    "region": "Plateau-Central",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 7,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.32327,
+     12.03062
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-252",
+    "cohort": 8,
+    "cohort_year": 2024,
+    "certification_status": "CERTIFIED",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.56871,
+     12.00969
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-253",
+    "cohort": 8,
+    "cohort_year": 2024,
+    "certification_status": "CERTIFIED",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.40738,
+     12.14675
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-254",
+    "cohort": 8,
+    "cohort_year": 2024,
+    "certification_status": "CERTIFIED",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.67714,
+     12.2409
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-255",
+    "cohort": 8,
+    "cohort_year": 2024,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 7,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.05466,
+     12.14984
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-256",
+    "cohort": 8,
+    "cohort_year": 2024,
+    "certification_status": "CERTIFIED",
+    "commune": "Kokologho",
+    "province": "Boulkiemde",
+    "region": "Centre-Ouest",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.56825,
+     12.15023
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-257",
+    "cohort": 9,
+    "cohort_year": 2025,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.72873,
+     12.26731
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-258",
+    "cohort": 9,
+    "cohort_year": 2025,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 3,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.37247,
+     12.0772
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-259",
+    "cohort": 9,
+    "cohort_year": 2025,
+    "certification_status": "CERTIFIED",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 1,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.53803,
+     11.96944
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-260",
+    "cohort": 9,
+    "cohort_year": 2025,
+    "certification_status": "CERTIFIED",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.45608,
+     12.38888
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-261",
+    "cohort": 9,
+    "cohort_year": 2025,
+    "certification_status": "CERTIFIED",
+    "commune": "Saaba",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.65599,
+     12.17847
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-262",
+    "cohort": 9,
+    "cohort_year": 2025,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.66177,
+     12.21008
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-263",
+    "cohort": 9,
+    "cohort_year": 2025,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.56083,
+     12.0124
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-264",
+    "cohort": 9,
+    "cohort_year": 2025,
+    "certification_status": "CERTIFIED",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 8,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.7199,
+     12.24168
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-265",
+    "cohort": 9,
+    "cohort_year": 2025,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.84667,
+     12.61907
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-266",
+    "cohort": 9,
+    "cohort_year": 2025,
+    "certification_status": "CERTIFIED",
+    "commune": "Bouss\u00e9",
+    "province": "Kourweogo",
+    "region": "Plateau-Central",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 1,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.568,
+     12.23162
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-267",
+    "cohort": 9,
+    "cohort_year": 2025,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.42412,
+     12.14822
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-268",
+    "cohort": 9,
+    "cohort_year": 2025,
+    "certification_status": "CERTIFIED",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 8,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.63401,
+     12.45292
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-269",
+    "cohort": 9,
+    "cohort_year": 2025,
+    "certification_status": "CERTIFIED",
+    "commune": "Pabre",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 3,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.58962,
+     12.00833
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-270",
+    "cohort": 9,
+    "cohort_year": 2025,
+    "certification_status": "CERTIFIED",
+    "commune": "Doulougou",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.45621,
+     12.17386
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-271",
+    "cohort": 9,
+    "cohort_year": 2025,
+    "certification_status": "CERTIFIED",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.6305,
+     12.27478
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-272",
+    "cohort": 9,
+    "cohort_year": 2025,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.67195,
+     12.23742
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-273",
+    "cohort": 9,
+    "cohort_year": 2025,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.99829,
+     12.136
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-274",
+    "cohort": 9,
+    "cohort_year": 2025,
+    "certification_status": "CERTIFIED",
+    "commune": "Kokologho",
+    "province": "Boulkiemde",
+    "region": "Centre-Ouest",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.69831,
+     12.29699
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-275",
+    "cohort": 9,
+    "cohort_year": 2025,
+    "certification_status": "CERTIFIED",
+    "commune": "Tanghin-Dassouri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.43095,
+     12.19873
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-276",
+    "cohort": 9,
+    "cohort_year": 2025,
+    "certification_status": "CERTIFIED",
+    "commune": "Koubri",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 9,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.58093,
+     12.17271
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-277",
+    "cohort": 9,
+    "cohort_year": 2025,
+    "certification_status": "CERTIFIED",
+    "commune": "Komsilga",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "NOT_CURRENTLY_DEPLOYED",
+    "wells_assigned_month6": 0,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.39042,
+     12.07678
+    ]
+   },
+   "properties": {
+    "engineer_id": "ENG-278",
+    "cohort": 9,
+    "cohort_year": 2025,
+    "certification_status": "CERTIFIED",
+    "commune": "Kombissiri",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "deployment_status_today": "UNKNOWN",
+    "deployment_status_month6_illustrative": "ACTIVE",
+    "wells_assigned_month6": 8,
+    "coordinate_confidence": "ILLUSTRATIVE_COMMUNE_CENTROID_PLUS_JITTER",
+    "provenance": "ILLUSTRATIVE_STRUCTURE_ONLY"
+   }
+  }
+ ]
+}

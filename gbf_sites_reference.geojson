@@ -1,0 +1,325 @@
+{
+ "type": "FeatureCollection",
+ "metadata": {
+  "layer": "Sites, cities and GBF offices",
+  "count": 15,
+  "note": "Approximate public gazetteer positions."
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.5197,
+     12.3714
+    ]
+   },
+   "properties": {
+    "site_id": "SITE-000",
+    "name": "Ouagadougou",
+    "type": "capital_city",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "gbf_presence": "country_office",
+    "notes": "National capital; GBF Burkina Faso operations base.",
+    "coordinate_confidence": "APPROXIMATE_PUBLIC",
+    "always_label": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.6833,
+     12.25
+    ]
+   },
+   "properties": {
+    "site_id": "SITE-001",
+    "name": "Tanghin-Dassouri",
+    "type": "commune",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "gbf_presence": "primary_field_site",
+    "notes": "Named GBF field site (reference docs).",
+    "coordinate_confidence": "APPROXIMATE_PUBLIC",
+    "always_label": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.6,
+     12.2
+    ]
+   },
+   "properties": {
+    "site_id": "SITE-002",
+    "name": "Komsilga",
+    "type": "commune",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "gbf_presence": "primary_field_site",
+    "notes": "Named GBF field site (reference docs).",
+    "coordinate_confidence": "APPROXIMATE_PUBLIC",
+    "always_label": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.187,
+     5.6037
+    ]
+   },
+   "properties": {
+    "site_id": "SITE-003",
+    "name": "Accra",
+    "type": "city",
+    "province": "-",
+    "region": "Greater Accra (Ghana)",
+    "gbf_presence": "regional_staff",
+    "notes": "Director of Partnerships (Valerie Gueye) is based in Ghana.",
+    "coordinate_confidence": "APPROXIMATE_PUBLIC",
+    "always_label": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9442,
+     40.6782
+    ]
+   },
+   "properties": {
+    "site_id": "SITE-004",
+    "name": "Brooklyn, New York",
+    "type": "city",
+    "province": "Kings County",
+    "region": "New York (USA)",
+    "gbf_presence": "us_office",
+    "notes": "US base; CEO and Board.",
+    "coordinate_confidence": "APPROXIMATE_PUBLIC",
+    "always_label": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.6833,
+     12.25
+    ]
+   },
+   "properties": {
+    "site_id": "SITE-101",
+    "name": "Tanghin-Dassouri",
+    "type": "commune",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "gbf_presence": "well_estate",
+    "notes": "Commune centroid used as an illustrative anchor for well pins.",
+    "coordinate_confidence": "APPROXIMATE_PUBLIC",
+    "always_label": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.6,
+     12.2
+    ]
+   },
+   "properties": {
+    "site_id": "SITE-102",
+    "name": "Komsilga",
+    "type": "commune",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "gbf_presence": "well_estate",
+    "notes": "Commune centroid used as an illustrative anchor for well pins.",
+    "coordinate_confidence": "APPROXIMATE_PUBLIC",
+    "always_label": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.4,
+     12.1833
+    ]
+   },
+   "properties": {
+    "site_id": "SITE-103",
+    "name": "Koubri",
+    "type": "commune",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "gbf_presence": "well_estate",
+    "notes": "Commune centroid used as an illustrative anchor for well pins.",
+    "coordinate_confidence": "APPROXIMATE_PUBLIC",
+    "always_label": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.4,
+     12.3667
+    ]
+   },
+   "properties": {
+    "site_id": "SITE-104",
+    "name": "Saaba",
+    "type": "commune",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "gbf_presence": "well_estate",
+    "notes": "Commune centroid used as an illustrative anchor for well pins.",
+    "coordinate_confidence": "APPROXIMATE_PUBLIC",
+    "always_label": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.6167,
+     12.5
+    ]
+   },
+   "properties": {
+    "site_id": "SITE-105",
+    "name": "Pabre",
+    "type": "commune",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "gbf_presence": "well_estate",
+    "notes": "Commune centroid used as an illustrative anchor for well pins.",
+    "coordinate_confidence": "APPROXIMATE_PUBLIC",
+    "always_label": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.3333,
+     12.0667
+    ]
+   },
+   "properties": {
+    "site_id": "SITE-106",
+    "name": "Kombissiri",
+    "type": "commune",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "gbf_presence": "well_estate",
+    "notes": "Commune centroid used as an illustrative anchor for well pins.",
+    "coordinate_confidence": "APPROXIMATE_PUBLIC",
+    "always_label": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.55,
+     12.0167
+    ]
+   },
+   "properties": {
+    "site_id": "SITE-107",
+    "name": "Doulougou",
+    "type": "commune",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "gbf_presence": "well_estate",
+    "notes": "Commune centroid used as an illustrative anchor for well pins.",
+    "coordinate_confidence": "APPROXIMATE_PUBLIC",
+    "always_label": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.0333,
+     12.1833
+    ]
+   },
+   "properties": {
+    "site_id": "SITE-108",
+    "name": "Kokologho",
+    "type": "commune",
+    "province": "Boulkiemde",
+    "region": "Centre-Ouest",
+    "gbf_presence": "well_estate",
+    "notes": "Commune centroid used as an illustrative anchor for well pins.",
+    "coordinate_confidence": "APPROXIMATE_PUBLIC",
+    "always_label": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.7667,
+     11.55
+    ]
+   },
+   "properties": {
+    "site_id": "SITE-109",
+    "name": "Sapouy",
+    "type": "commune",
+    "province": "Ziro",
+    "region": "Centre-Ouest",
+    "gbf_presence": "well_estate",
+    "notes": "Commune centroid used as an illustrative anchor for well pins.",
+    "coordinate_confidence": "APPROXIMATE_PUBLIC",
+    "always_label": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.8833,
+     12.65
+    ]
+   },
+   "properties": {
+    "site_id": "SITE-110",
+    "name": "Bouss\u00e9",
+    "type": "commune",
+    "province": "Kourweogo",
+    "region": "Plateau-Central",
+    "gbf_presence": "well_estate",
+    "notes": "Commune centroid used as an illustrative anchor for well pins.",
+    "coordinate_confidence": "APPROXIMATE_PUBLIC",
+    "always_label": false
+   }
+  }
+ ]
+}
