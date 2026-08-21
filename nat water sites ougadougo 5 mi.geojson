@@ -1,0 +1,1385 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-08-21T18:01:15Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/134964725",
+        "building": "yes",
+        "man_made": "water_tower",
+        "name": "Château d´eau de l´ONEA",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4807809,
+          12.35096
+        ]
+      },
+      "id": "way/134964725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/134966349",
+        "building": "yes",
+        "man_made": "water_tower",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.535136,
+          12.3605829
+        ]
+      },
+      "id": "way/134966349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/206149539",
+        "man_made": "water_tower",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5245841,
+          12.3713721
+        ]
+      },
+      "id": "way/206149539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/312232889",
+        "building": "yes",
+        "man_made": "water_tower",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4795371,
+          12.339707
+        ]
+      },
+      "id": "way/312232889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/312232891",
+        "building": "yes",
+        "man_made": "water_tower",
+        "operator": "ONEA",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4796657,
+          12.3395572
+        ]
+      },
+      "id": "way/312232891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/351265843",
+        "man_made": "water_tower",
+        "project:PDEVII": "yes",
+        "source": "survey",
+        "survey:date": "2015-03-26",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5268096,
+          12.3560948
+        ]
+      },
+      "id": "way/351265843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/453059166",
+        "man_made": "water_tower",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5127431,
+          12.4141689
+        ]
+      },
+      "id": "way/453059166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/908426009",
+        "man_made": "water_tower",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5121827,
+          12.3579794
+        ]
+      },
+      "id": "way/908426009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1011252409",
+        "man_made": "water_tower",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5370552,
+          12.4225077
+        ]
+      },
+      "id": "way/1011252409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1011252410",
+        "man_made": "water_tower",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5365644,
+          12.4223565
+        ]
+      },
+      "id": "way/1011252410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1545702768",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "designation": "Borne fontaine",
+        "operator": "ONEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5344283,
+          12.359781
+        ]
+      },
+      "id": "node/1545702768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1545705774",
+        "amenity": "drinking_water",
+        "designation": "Borne fontaine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5313723,
+          12.3593019
+        ]
+      },
+      "id": "node/1545705774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1634016223",
+        "man_made": "water_tower",
+        "name": "Château d'eau de Koulouba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5114033,
+          12.3654956
+        ]
+      },
+      "id": "node/1634016223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1645286406",
+        "amenity": "drinking_water",
+        "designation": "Borne fontaine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4888092,
+          12.3646052
+        ]
+      },
+      "id": "node/1645286406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1645286407",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4901396,
+          12.3664104
+        ]
+      },
+      "id": "node/1645286407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2390734674",
+        "amenity": "drinking_water",
+        "description": "1 robinet bon etat",
+        "indoor": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4932791,
+          12.3596222
+        ]
+      },
+      "id": "node/2390734674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2401421497",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "condition": "good",
+        "disused": "yes",
+        "operator:type": "public",
+        "source": "Bing; survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5253151,
+          12.3699191
+        ]
+      },
+      "id": "node/2401421497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2401421509",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "condition": "good",
+        "operator:type": "public",
+        "source": "Bing;survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5250291,
+          12.3699957
+        ]
+      },
+      "id": "node/2401421509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2670051810",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "condition": "fair",
+        "drinking_water": "yes",
+        "name": "fontaine",
+        "operator": "ONEA",
+        "operator:type": "government",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5032891,
+          12.3434588
+        ]
+      },
+      "id": "node/2670051810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2907150728",
+        "man_made": "water_tower"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5253994,
+          12.3085135
+        ]
+      },
+      "id": "node/2907150728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2907150740",
+        "man_made": "water_tower"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5256031,
+          12.3088464
+        ]
+      },
+      "id": "node/2907150740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2907150753",
+        "man_made": "water_tower"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5255493,
+          12.3091996
+        ]
+      },
+      "id": "node/2907150753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2907352151",
+        "man_made": "water_tower",
+        "name": "Song Naaba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.529715,
+          12.3165825
+        ]
+      },
+      "id": "node/2907352151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3182449771",
+        "man_made": "water_tower"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.548606,
+          12.3715087
+        ]
+      },
+      "id": "node/3182449771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3282198080",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "condition": "fair",
+        "drinking_water": "yes",
+        "fee": "yes",
+        "operator": "ONEA",
+        "operator:type": "private",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5343784,
+          12.3358526
+        ]
+      },
+      "id": "node/3282198080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3282409089",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "condition": "good",
+        "drinking_water": "yes",
+        "fee": "yes",
+        "operator": "ONEA",
+        "operator:type": "private",
+        "source": "bing;survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5352875,
+          12.3376877
+        ]
+      },
+      "id": "node/3282409089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3282510791",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "drinking_water": "yes",
+        "fee": "yes",
+        "operator": "ONEA",
+        "operator:type": "private",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5400953,
+          12.3334461
+        ]
+      },
+      "id": "node/3282510791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3282670469",
+        "amenity": "drinking_water",
+        "fee": "yes",
+        "operator": "ONEA",
+        "operator:type": "private",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5374031,
+          12.3324081
+        ]
+      },
+      "id": "node/3282670469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3296787431",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "condition": "fair",
+        "drinking_water": "yes",
+        "name": "Fontaine Public",
+        "operator": "ONEA",
+        "operator:type": "government",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.537456,
+          12.3367388
+        ]
+      },
+      "id": "node/3296787431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3330158886",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "condition": "fair",
+        "fee": "yes",
+        "operator": "ONEA",
+        "operator:type": "public",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5312759,
+          12.3351942
+        ]
+      },
+      "id": "node/3330158886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3330199914",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "drinking_water": "yes",
+        "source": "bing,survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5374592,
+          12.3411006
+        ]
+      },
+      "id": "node/3330199914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3330210171",
+        "access": "multifamily",
+        "amenity": "drinking_water",
+        "drinking_water": "yes",
+        "fee": "yes",
+        "operator:type": "public",
+        "source": "Survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5354282,
+          12.3394443
+        ]
+      },
+      "id": "node/3330210171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3332303442",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5326279,
+          12.3389939
+        ]
+      },
+      "id": "node/3332303442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3349847677",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "source": "bing;survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5432238,
+          12.3343544
+        ]
+      },
+      "id": "node/3349847677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3349882206",
+        "amenity": "drinking_water",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5450048,
+          12.3399072
+        ]
+      },
+      "id": "node/3349882206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3350223139",
+        "amenity": "drinking_water",
+        "source": "survey;bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5441176,
+          12.3294924
+        ]
+      },
+      "id": "node/3350223139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3398269667",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "check_date": "2025-08-17",
+        "drinking_water": "yes",
+        "man_made": "water_tap",
+        "operator:type": "public",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5761834,
+          12.3937243
+        ]
+      },
+      "id": "node/3398269667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3398315893",
+        "amenity": "drinking_water",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5817613,
+          12.3980377
+        ]
+      },
+      "id": "node/3398315893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3398316236",
+        "amenity": "drinking_water",
+        "source": "bing;survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5802561,
+          12.3858333
+        ]
+      },
+      "id": "node/3398316236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3398324250",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "condition": "good",
+        "drinking_water": "yes",
+        "operator:type": "public",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5821794,
+          12.3955245
+        ]
+      },
+      "id": "node/3398324250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3398341009",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "condition": "fair",
+        "fee": "yes",
+        "operator": "ONEA",
+        "operator:type": "public",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5637121,
+          12.3930811
+        ]
+      },
+      "id": "node/3398341009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3398371288",
+        "amenity": "drinking_water",
+        "operator": "ONEA",
+        "source": "bing;survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5769647,
+          12.3852363
+        ]
+      },
+      "id": "node/3398371288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3398373777",
+        "amenity": "drinking_water",
+        "check_date": "2025-08-17",
+        "man_made": "water_tap",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5718533,
+          12.3943749
+        ]
+      },
+      "id": "node/3398373777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3398414141",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "condition": "deficient",
+        "drinking_water": "yes",
+        "fee": "yes",
+        "operator": "ONEA",
+        "operator:type": "public",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5607583,
+          12.3953548
+        ]
+      },
+      "id": "node/3398414141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3398455145",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "operator": "ONEA",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5621975,
+          12.397544
+        ]
+      },
+      "id": "node/3398455145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3398460980",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5733016,
+          12.3855779
+        ]
+      },
+      "id": "node/3398460980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3407000053",
+        "amenity": "drinking_water",
+        "operator": "ONEA",
+        "source": "bing;survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5762589,
+          12.388935
+        ]
+      },
+      "id": "node/3407000053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3407125760",
+        "access": "yes",
+        "condition": "deficient",
+        "drinking_water": "yes",
+        "natural": "spring",
+        "source": "bing;survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5750922,
+          12.3873071
+        ]
+      },
+      "id": "node/3407125760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3416416453",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "condition": "good",
+        "drinking_water": "yes",
+        "fee": "yes",
+        "name": "Aquaterra",
+        "operator": "Aquaterra",
+        "operator:type": "private",
+        "source": "survey;bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5094775,
+          12.3791597
+        ]
+      },
+      "id": "node/3416416453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3446737639",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "condition": "fair",
+        "drinking_water": "yes",
+        "fee": "yes",
+        "operator:type": "private",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.52029,
+          12.3244792
+        ]
+      },
+      "id": "node/3446737639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3446810989",
+        "amenity": "drinking_water",
+        "condition": "good",
+        "drinking_water": "yes",
+        "fee": "yes",
+        "operator:type": "private",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5221864,
+          12.3242311
+        ]
+      },
+      "id": "node/3446810989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3452023654",
+        "amenity": "drinking_water",
+        "operator": "ONEA",
+        "source": "bing;survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5902011,
+          12.3514919
+        ]
+      },
+      "id": "node/3452023654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3452023659",
+        "amenity": "drinking_water",
+        "source": "bing;survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5888505,
+          12.3560115
+        ]
+      },
+      "id": "node/3452023659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3452126136",
+        "access": "private",
+        "drinking_water": "no",
+        "man_made": "water_well",
+        "pump": "manual",
+        "source": "bing;survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5870811,
+          12.3595703
+        ]
+      },
+      "id": "node/3452126136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3452126137",
+        "access": "private",
+        "condition": "deficient",
+        "drinking_water": "no",
+        "man_made": "water_well",
+        "operator:type": "private",
+        "pump": "manual",
+        "source": "bing;survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5904036,
+          12.3604443
+        ]
+      },
+      "id": "node/3452126137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3452126138",
+        "access": "private",
+        "condition": "deficient",
+        "drinking_water": "no",
+        "man_made": "water_well",
+        "operator:type": "private",
+        "pump": "manual",
+        "source": "bing;survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5888367,
+          12.3609985
+        ]
+      },
+      "id": "node/3452126138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3576618695",
+        "amenity": "drinking_water",
+        "operator": "ONEA",
+        "source": "bing; survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.549355,
+          12.348248
+        ]
+      },
+      "id": "node/3576618695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3576780141",
+        "access": "yes",
+        "amenity": "drinking_water",
+        "fee": "yes",
+        "operator": "ONEA",
+        "operator:type": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5480269,
+          12.3464914
+        ]
+      },
+      "id": "node/3576780141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3650869522",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5458972,
+          12.3638753
+        ]
+      },
+      "id": "node/3650869522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3652502358",
+        "amenity": "drinking_water",
+        "source": "Survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5460719,
+          12.3652213
+        ]
+      },
+      "id": "node/3652502358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3796086656",
+        "man_made": "water_tower",
+        "name": "ONEA",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.549916,
+          12.3547513
+        ]
+      },
+      "id": "node/3796086656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3944634024",
+        "man_made": "water_tower"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5569164,
+          12.3248317
+        ]
+      },
+      "id": "node/3944634024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4394953809",
+        "amenity": "drinking_water",
+        "source": "survey;bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5027161,
+          12.3774951
+        ]
+      },
+      "id": "node/4394953809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4407996352",
+        "amenity": "drinking_water",
+        "source": "survey;bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5040985,
+          12.3771428
+        ]
+      },
+      "id": "node/4407996352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4498631152",
+        "amenity": "drinking_water",
+        "name": "ONEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5125523,
+          12.4141792
+        ]
+      },
+      "id": "node/4498631152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5468903019",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4702983,
+          12.3261067
+        ]
+      },
+      "id": "node/5468903019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6371875586",
+        "man_made": "water_tower"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5566074,
+          12.3245545
+        ]
+      },
+      "id": "node/6371875586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6371875587",
+        "man_made": "water_tower"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5569852,
+          12.3248026
+        ]
+      },
+      "id": "node/6371875587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6371875588",
+        "man_made": "water_tower"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5565786,
+          12.3245481
+        ]
+      },
+      "id": "node/6371875588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6371875589",
+        "man_made": "water_tower"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5566772,
+          12.3246111
+        ]
+      },
+      "id": "node/6371875589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6505885086",
+        "man_made": "water_tower"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5568538,
+          12.3247129
+        ]
+      },
+      "id": "node/6505885086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6544658786",
+        "name": "Guiro",
+        "name:fr": "Guiro",
+        "natural": "spring"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.485196,
+          12.3187109
+        ]
+      },
+      "id": "node/6544658786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6545402985",
+        "name": "Kometgold",
+        "name:en": "Kometgold",
+        "name:fr": "Kometgold",
+        "natural": "spring"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5272313,
+          12.3153601
+        ]
+      },
+      "id": "node/6545402985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7286298134",
+        "amenity": "drinking_water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5364511,
+          12.4220929
+        ]
+      },
+      "id": "node/7286298134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8300986018",
+        "name": "Tradit pra fatim",
+        "natural": "spring"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5480415,
+          12.3128248
+        ]
+      },
+      "id": "node/8300986018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8300986418",
+        "name": "Famille Zalle",
+        "natural": "spring"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5709055,
+          12.326256
+        ]
+      },
+      "id": "node/8300986418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9899462626",
+        "man_made": "water_tower"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5177089,
+          12.3141142
+        ]
+      },
+      "id": "node/9899462626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10686134005",
+        "name": "Jacob",
+        "natural": "spring"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5876461,
+          12.3931744
+        ]
+      },
+      "id": "node/10686134005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10686134308",
+        "name:en": "GQ",
+        "natural": "spring"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4989827,
+          12.4085628
+        ]
+      },
+      "id": "node/10686134308"
+    }
+  ]
+}
