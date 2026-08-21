@@ -1,0 +1,27 @@
+{
+ "type": "FeatureCollection",
+ "name": "gbf_offices",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.488205,
+     12.383935
+    ]
+   },
+   "properties": {
+    "name": "Association Georgie Badiel",
+    "org": "Association Georgie Badiel (AGB)",
+    "type": "Country office",
+    "role": "Burkina Faso operations",
+    "address": "Section EW, Lot 10, Parcelle 22, Porte N\u00b0727, Rue 13-62, Zone du Bois, Ouagadougou",
+    "city": "Ouagadougou",
+    "country": "Burkina Faso",
+    "location_confidence": "Confirmed address",
+    "label": "AGB \u2014 Ouagadougou"
+   }
+  }
+ ]
+}

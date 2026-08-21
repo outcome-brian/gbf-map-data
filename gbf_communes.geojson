@@ -1,0 +1,196 @@
+{
+ "type": "FeatureCollection",
+ "name": "gbf_communes",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.6833,
+     12.25
+    ]
+   },
+   "properties": {
+    "name": "Tanghin-Dassouri",
+    "type": "Commune of operation",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "gbf_presence": "primary_field_site",
+    "coordinate_confidence": "Approximate \u2014 commune centre",
+    "label": "Tanghin-Dassouri"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.6,
+     12.2
+    ]
+   },
+   "properties": {
+    "name": "Komsilga",
+    "type": "Commune of operation",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "gbf_presence": "primary_field_site",
+    "coordinate_confidence": "Approximate \u2014 commune centre",
+    "label": "Komsilga"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.4,
+     12.1833
+    ]
+   },
+   "properties": {
+    "name": "Koubri",
+    "type": "Commune of operation",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "gbf_presence": "well_estate",
+    "coordinate_confidence": "Approximate \u2014 commune centre",
+    "label": "Koubri"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.4,
+     12.3667
+    ]
+   },
+   "properties": {
+    "name": "Saaba",
+    "type": "Commune of operation",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "gbf_presence": "well_estate",
+    "coordinate_confidence": "Approximate \u2014 commune centre",
+    "label": "Saaba"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.6167,
+     12.5
+    ]
+   },
+   "properties": {
+    "name": "Pabre",
+    "type": "Commune of operation",
+    "province": "Kadiogo",
+    "region": "Centre",
+    "gbf_presence": "well_estate",
+    "coordinate_confidence": "Approximate \u2014 commune centre",
+    "label": "Pabre"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.3333,
+     12.0667
+    ]
+   },
+   "properties": {
+    "name": "Kombissiri",
+    "type": "Commune of operation",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "gbf_presence": "well_estate",
+    "coordinate_confidence": "Approximate \u2014 commune centre",
+    "label": "Kombissiri"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.55,
+     12.0167
+    ]
+   },
+   "properties": {
+    "name": "Doulougou",
+    "type": "Commune of operation",
+    "province": "Bazega",
+    "region": "Centre-Sud",
+    "gbf_presence": "well_estate",
+    "coordinate_confidence": "Approximate \u2014 commune centre",
+    "label": "Doulougou"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.0333,
+     12.1833
+    ]
+   },
+   "properties": {
+    "name": "Kokologho",
+    "type": "Commune of operation",
+    "province": "Boulkiemde",
+    "region": "Centre-Ouest",
+    "gbf_presence": "well_estate",
+    "coordinate_confidence": "Approximate \u2014 commune centre",
+    "label": "Kokologho"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.7667,
+     11.55
+    ]
+   },
+   "properties": {
+    "name": "Sapouy",
+    "type": "Commune of operation",
+    "province": "Ziro",
+    "region": "Centre-Ouest",
+    "gbf_presence": "well_estate",
+    "coordinate_confidence": "Approximate \u2014 commune centre",
+    "label": "Sapouy"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.8833,
+     12.65
+    ]
+   },
+   "properties": {
+    "name": "Bouss\u00e9",
+    "type": "Commune of operation",
+    "province": "Kourweogo",
+    "region": "Plateau-Central",
+    "gbf_presence": "well_estate",
+    "coordinate_confidence": "Approximate \u2014 commune centre",
+    "label": "Bouss\u00e9"
+   }
+  }
+ ]
+}
