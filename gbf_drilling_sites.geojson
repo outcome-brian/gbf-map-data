@@ -1,0 +1,128 @@
+{
+ "type": "FeatureCollection",
+ "name": "gbf_drilling_sites",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.80514,
+     12.19507
+    ]
+   },
+   "properties": {
+    "name": "\u00c9cole maternelle Komki-Ipala",
+    "label": "\u00c9cole maternelle Komki-Ipala",
+    "commune": "Komki-Ipala",
+    "region": "Kadiogo",
+    "type": "Drilling site",
+    "source": "Association Georgie Badiel, August 2026",
+    "coordinate_confidence": "Confirmed \u2014 supplied by GBF",
+    "note": "Listed in the GPS annex as a drilling site. Not named in the Oasis table \u2014 confirm whether this is a well rather than an Oasis centre."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.81849,
+     12.242127
+    ]
+   },
+   "properties": {
+    "name": "\u00c9cole de Tintilou",
+    "label": "\u00c9cole de Tintilou",
+    "commune": "Komki-Ipala",
+    "region": "Kadiogo",
+    "type": "Drilling site",
+    "source": "Association Georgie Badiel, August 2026",
+    "coordinate_confidence": "Confirmed \u2014 supplied by GBF",
+    "data_note": "Shares an exact latitude with Zinguedess\u00e9 \u2014 verify",
+    "note": "Listed in the GPS annex as a drilling site. Not named in the Oasis table \u2014 confirm whether this is a well rather than an Oasis centre."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.64714,
+     12.17922
+    ]
+   },
+   "properties": {
+    "name": "Namassa",
+    "label": "Namassa",
+    "commune": "Komsilga",
+    "region": "Kadiogo",
+    "type": "Drilling site",
+    "source": "Association Georgie Badiel, August 2026",
+    "coordinate_confidence": "Confirmed \u2014 supplied by GBF",
+    "note": "Listed in the GPS annex as a drilling site. Not named in the Oasis table \u2014 confirm whether this is a well rather than an Oasis centre."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.584248,
+     12.242127
+    ]
+   },
+   "properties": {
+    "name": "Zinguedess\u00e9",
+    "label": "Zinguedess\u00e9",
+    "commune": "Komsilga",
+    "region": "Kadiogo",
+    "type": "Drilling site",
+    "source": "Association Georgie Badiel, August 2026",
+    "coordinate_confidence": "Confirmed \u2014 supplied by GBF",
+    "data_note": "Shares an exact latitude with \u00c9cole de Tintilou \u2014 verify",
+    "note": "Listed in the GPS annex as a drilling site. Not named in the Oasis table \u2014 confirm whether this is a well rather than an Oasis centre."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.70357,
+     12.07936
+    ]
+   },
+   "properties": {
+    "name": "Toeghin Peulhs",
+    "label": "Toeghin Peulhs",
+    "commune": "Komsilga",
+    "region": "Kadiogo",
+    "type": "Drilling site",
+    "source": "Association Georgie Badiel, August 2026",
+    "coordinate_confidence": "Confirmed \u2014 supplied by GBF",
+    "note": "Listed in the GPS annex as a drilling site. Not named in the Oasis table \u2014 confirm whether this is a well rather than an Oasis centre."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.32906,
+     12.273033
+    ]
+   },
+   "properties": {
+    "name": "Guy",
+    "label": "Guy",
+    "commune": "Koudougou",
+    "region": "Nando",
+    "type": "Drilling site",
+    "source": "Association Georgie Badiel, August 2026",
+    "coordinate_confidence": "Confirmed \u2014 supplied by GBF",
+    "note": "Listed in the GPS annex as a drilling site. Not named in the Oasis table \u2014 confirm whether this is a well rather than an Oasis centre."
+   }
+  }
+ ]
+}
